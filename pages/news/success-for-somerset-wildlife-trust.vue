@@ -84,13 +84,13 @@
 export default {
   head() {
     return {
-      title: 'Capidale - Women and Girls Case Study',
+      title: 'Capidale - Success for Somerset Wildlife Trust',
       meta: [
         {
           hid: 'description',
           name: 'description',
           content:
-            'A look at how Capidale has raised almost £5 million to support Women and Girls just in Yorkshire',
+            'We are thrilled to have raised £290,000 for Somerset Wildlife Trust, working in partnership with Quantock, Blackdown and Mendip Areas of Outstanding Natural Beauty.',
         },
       ],
     }

@@ -58,13 +58,13 @@
 export default {
   head() {
     return {
-      title: 'Capidale - Women and Girls Case Study',
+      title: 'Capidale - £175,647 for Citizens Advice Wirral',
       meta: [
         {
           hid: 'description',
           name: 'description',
           content:
-            'A look at how Capidale has raised almost £5 million to support Women and Girls just in Yorkshire',
+            'We’re delighted to have raised £175,647 for Citizens Advice Wirral from The Henry Smith Charity.',
         },
       ],
     }

@@ -58,13 +58,13 @@
 export default {
   head() {
     return {
-      title: 'Capidale - Women and Girls Case Study',
+      title: 'Capidale - Over £190,000 for The Cellar Trust',
       meta: [
         {
           hid: 'description',
           name: 'description',
           content:
-            'A look at how Capidale has raised almost £5 million to support Women and Girls just in Yorkshire',
+            'Over £190,000 raised for The Cellar Trust during the COVID-19 pandemic',
         },
       ],
     }
