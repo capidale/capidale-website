@@ -80,5 +80,8 @@ export default {
    ** Build configuration
    ** See https://nuxtjs.org/api/configuration-build/
    */
-  build: {},
+  build: {
+    transpile: ['countup.js', 'vue-countup-v2'],
+    extend(_config, _ctx) {},
+  },
 }
