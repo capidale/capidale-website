@@ -170,3 +170,21 @@
     </Container>
   </Content>
 </template>
+
+<script>
+export default {
+  head() {
+    return {
+      title: 'Capidale - Contact us',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'Are you looking for fundraising consultants to help your charity grow? Get in touch, we would love to help!',
+        },
+      ],
+    }
+  },
+}
+</script>

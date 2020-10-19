@@ -10,26 +10,57 @@
       </h2>
       <span
         class="block pt-3 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10"
-        >Working hard to reduce loneliness and poverty</span
+        >£8 million raised to improve later life across the UK</span
       >
       <div class="flex flex-col-reverse lg:grid lg:grid-cols-2 lg:gap-x-8">
         <div class="pt-6 prose lg:prose">
           <p class="text-lg font-medium">
-            We started working with Age UK South Lakeland in 2014 when their
-            in-house fundraiser retired.
+            We are proud to have worked with many local and national charities
+            supporting older people.
+          </p>
+          <p>Our clients and funds raised for them to date include:</p>
+          <ul>
+            <li>Campaign to End Loneliness - £2,650,000</li>
+            <li>Age UK Barrow & District - £1,752,275</li>
+            <li>Age UK South Lakeland - £1,479,169</li>
+            <li>Age UK Doncaster - £834,711</li>
+            <li>Age UK Carlisle & Eden - £463,801</li>
+            <li>Age UK Wakefield - £448,969</li>
+            <li>Leeds Jewish Welfare Board - £403,246</li>
+            <li>Age UK North East Lincolnshire - £366,939</li>
+          </ul>
+          <h3>Case Study: Time for Tea, Age UK Wakefield</h3>
+          <p>
+            For several years, Age UK Wakefield has run a monthly ‘cuppa club’
+            in partnership with the Ridings Shopping Centre in Wakefield. The
+            Ridings noticed that many older people would spend hours at the
+            shopping centre, not speaking to anyone and sitting on their own.
           </p>
           <p>
-            We began by undertaking funder research which initially identified
-            17 trusts, foundations and grant programmes with the potential to
-            support them. Next, we wrote a high-impact Case for Support to
-            differentiate their funding requests from other charities in the
-            region.
+            They wanted to do something to help and so, with Age UK Wakefield’s
+            support, they set up a monthly club in the atrium, where older
+            people can come, have a free drink, watch a band and meet other
+            people in the same situation. Age UK Wakefield and other
+            organisations are on hand to offer help and support to those who
+            need it.
           </p>
           <p>
-            Our first fundraising application was to the Big Lottery Fund’s
-            Reaching Communities programme, which successfully secured a
-            five-year grant of £499,000. After which they outsourced all trusts
-            fundraising to us.
+            Age UK Wakefield asked us to help them raise funds to extend the
+            idea to other shopping centres across the district. We helped them
+            develop an application to the National Lottery Community Fund, which
+            successfully secured £280,119 to help them realise their ambition.
+            Soon, Time for Tea will be running in five new shopping centres
+            across the district, reaching 6,000 older people – and helping Age
+            UK Wakefield identify those ‘hard to reach’ older people who need
+            extra help.
+          </p>
+          <h3>Case Study: Age UK South Lakeland</h3>
+          <p>
+            We began working for Age UK South Lakeland in 2014, initially
+            helping them secure a lottery grant of £499,000. They subsequently
+            outsourced all their fundraising to us and, over the next five
+            years, we raised almost £1.5 million for them, submitting 51
+            applications and securing 28 grants.
           </p>
           <blockquote
             cite="Hugh Tomlinson, Chief Executive, Age UK South Lakeland"
@@ -40,18 +71,10 @@
               it is very good value for money. I have no hesitation whatsoever
               in recommending Capidale.
             </p>
-            <footer>Hugh Tomlinson, Chief Executive</footer>
+            <footer>
+              Hugh Tomlinson, Chief Executive, Age UK South Lakeland
+            </footer>
           </blockquote>
-          <p>
-            To date, we have written 45 fundraising applications to large and
-            small funders, almost 60% of these have been successful – raising a
-            total of over £1.4 million.
-          </p>
-          <p>
-            We have helped many other local Age UKs with their fundraising,
-            including Age UK Doncaster, Age UK Barrow & District, Age UK
-            Carlisle & Eden and Age UK North East Lincolnshire.
-          </p>
         </div>
         <div class="pt-6">
           <img
@@ -63,3 +86,21 @@
     </Container>
   </Content>
 </template>
+
+<script>
+export default {
+  head() {
+    return {
+      title: 'Capidale - Older People Case Study',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'A look at how Capidale has raised £8 million to improve later life across the UK',
+        },
+      ],
+    }
+  },
+}
+</script>

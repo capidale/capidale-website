@@ -7,41 +7,41 @@
         <blockquote class="py-6">
           <div class="flex justify-center">
             <p class="max-w-lg text-lg leading-7 text-center text-white">
-              "Capidale are amazing. We really benefitted from their support to
-              help us grow. Our income has grown three fold since we started
-              working with them. Thank you!"
+              "Working with Capidale allows us to access a very rare skillset
+              indeed – a thorough knowledge of funder requirements… combined
+              with a level of dedication to the success of bids that goes way
+              beyond anyone else. I would highly recommend them."
             </p>
           </div>
           <footer>
             <div class="pt-6 flex flex-col items-center">
               <span
                 class="block text-base leading-6 text-white font-semibold tracking-wide uppercase"
-                >Emma Howitt</span
+                >Sue Baker OBE</span
               >
               <span
                 class="text-base leading-6 text-light-green-100 font-semibold tracking-wide"
-                >CEO, Middlesbrough & Stockton Mind</span
+                >CEO, Time to Change</span
               >
             </div>
           </footer>
         </blockquote>
-        <blockquote class="py-6 md:-ml-4 md:pl-4">
+        <blockquote class="flex flex-col justify-center py-6 md:-ml-4 md:pl-4">
           <div class="flex justify-center">
             <p class="max-w-lg text-lg leading-7 text-center text-white">
-              "Capidale are amazing. We really benefitted from their support to
-              help us grow. Our income has grown three fold since we started
-              working with them. Thank you!"
+              "The team at Capidale has helped the cause of mental health to be
+              transformed and I would thoroughly recommend working with them."
             </p>
           </div>
           <footer>
             <div class="pt-6 flex flex-col items-center">
               <span
                 class="block text-base leading-6 text-white font-semibold tracking-wide uppercase"
-                >Emma Howitt</span
+                >Paul Farmer CBE</span
               >
               <span
                 class="text-base leading-6 text-light-green-100 font-semibold tracking-wide"
-                >CEO, Middlesbrough & Stockton Mind</span
+                >CEO, Mind</span
               >
             </div>
           </footer>

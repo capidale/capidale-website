@@ -1,8 +1,8 @@
 <template>
   <div class="-mr-2 flex items-center md:hidden">
     <button
-      type="button"
       id="main-menu"
+      type="button"
       class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:bg-light-green-600 hover:text-white focus:outline-none focus:bg-light-green-600 focus:text-white transition duration-150 ease-in-out"
       aria-label="Main menu"
       aria-haspopup="true"
@@ -42,12 +42,12 @@
             aria-labelledby="main-menu"
           >
             <div class="px-5 pt-4 flex items-center justify-between">
-              <div>
+              <nuxt-link to="/" @click.native="isResponsiveMenuOpen = false">
                 <img
                   src="~/assets/img/capidale-logo-on-white.svg"
                   class="h-8 w-auto"
                 />
-              </div>
+              </nuxt-link>
               <div class="-mr-2">
                 <button
                   type="button"
@@ -73,49 +73,50 @@
             </div>
             <nav>
               <div class="px-2 pt-2 pb-3 space-y-2">
-                <a
-                  href="#"
+                <nuxt-link
+                  to="/fundraising"
                   class="block px-3 py-2 rounded-md text-base font-medium text-gray-600 hover:bg-light-green-50 hover:text-light-green-900 focus:outline-none focus:bg-light-green-50 focus:text-light-green-900 transition duration-150 ease-in-out"
-                  role="menuitem"
-                  >Fundraising</a
+                  @click.native="isResponsiveMenuOpen = false"
+                  >Fundraising</nuxt-link
                 >
-                <a
-                  href="#"
+                <nuxt-link
+                  to="/evaluation"
                   class="block px-3 py-2 rounded-md text-base font-medium text-gray-600 hover:bg-light-green-50 hover:text-light-green-900 focus:outline-none focus:bg-light-green-50 focus:text-light-green-900 transition duration-150 ease-in-out"
-                  role="menuitem"
-                  >Evaluation</a
+                  @click.native="isResponsiveMenuOpen = false"
+                  >Evaluation</nuxt-link
                 >
-                <a
-                  href="#"
+                <nuxt-link
+                  to="/training"
                   class="block px-3 py-2 rounded-md text-base font-medium text-gray-600 hover:bg-light-green-50 hover:text-light-green-900 focus:outline-none focus:bg-light-green-50 focus:text-light-green-900 transition duration-150 ease-in-out"
-                  role="menuitem"
-                  >Training</a
+                  @click.native="isResponsiveMenuOpen = false"
+                  >Training</nuxt-link
                 >
-                <a
-                  href="#"
+                <nuxt-link
+                  to="/case-studies"
                   class="block px-3 py-2 rounded-md text-base font-medium text-gray-600 hover:bg-light-green-50 hover:text-light-green-900 focus:outline-none focus:bg-light-green-50 focus:text-light-green-900 transition duration-150 ease-in-out"
-                  role="menuitem"
-                  >Case Studies</a
+                  @click.native="isResponsiveMenuOpen = false"
+                  >Case Studies</nuxt-link
                 >
-                <a
-                  href="#"
+                <nuxt-link
+                  to="/news"
                   class="block px-3 py-2 rounded-md text-base font-medium text-gray-600 hover:bg-light-green-50 hover:text-light-green-900 focus:outline-none focus:bg-light-green-50 focus:text-light-green-900 transition duration-150 ease-in-out"
-                  role="menuitem"
-                  >News</a
+                  @click.native="isResponsiveMenuOpen = false"
+                  >News</nuxt-link
                 >
-                <a
-                  href="#"
+                <nuxt-link
+                  to="/about"
                   class="block px-3 py-2 rounded-md text-base font-medium text-gray-600 hover:bg-light-green-50 hover:text-light-green-900 focus:outline-none focus:bg-light-green-50 focus:text-light-green-900 transition duration-150 ease-in-out"
-                  role="menuitem"
-                  >About us</a
+                  @click.native="isResponsiveMenuOpen = false"
+                  >About Us</nuxt-link
                 >
               </div>
               <div>
-                <a
-                  href="#"
+                <nuxt-link
+                  to="/contact"
                   class="block w-full px-5 py-3 text-center font-medium text-light-green-700 bg-gray-50 hover:bg-gray-100 hover:text-light-green-900 focus:outline-none focus:bg-gray-100 focus:text-light-green-900 transition duration-150 ease-in-out"
                   role="menuitem"
-                  >Contact us</a
+                  @click.native="isResponsiveMenuOpen = false"
+                  >Contact Us</nuxt-link
                 >
               </div>
             </nav>

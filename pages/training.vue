@@ -4,10 +4,14 @@
       class="py-6 md:flex md:flex-col md:items-center lg:block lg:pt-12"
     >
       <h2
-        class="block text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10"
+        class="text-base leading-6 text-light-green-600 font-semibold tracking-wide uppercase"
       >
         Training
       </h2>
+      <span
+        class="block pt-3 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10"
+        >We can build your fundraising and evaluation skills</span
+      >
       <div class="flex flex-col-reverse lg:grid lg:grid-cols-2 lg:gap-x-8">
         <div class="pt-6 prose lg:prose">
           <p class="text-xl font-medium">
@@ -16,11 +20,11 @@
           </p>
           <p>We prepare and deliver training on:</p>
           <ul>
-            <li>Developing a case for support;</li>
-            <li>Writing a winning fundraising application;</li>
-            <li>Fundraising from trusts & foundations;</li>
-            <li>Applications to the National Lottery Community Fund;</li>
-            <li>Simple evaluation to prove your impact;</li>
+            <li>Developing a case for support</li>
+            <li>Writing a winning fundraising application</li>
+            <li>Fundraising from trusts & foundations</li>
+            <li>Applications to the National Lottery Community Fund</li>
+            <li>Simple evaluation to prove your impact</li>
           </ul>
         </div>
         <div class="pt-6">
@@ -33,3 +37,21 @@
     </Container>
   </Content>
 </template>
+
+<script>
+export default {
+  head() {
+    return {
+      title: 'Capidale - Training',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'Let us share the secrets of our success by training your fundraisers to help your charity grow',
+        },
+      ],
+    }
+  },
+}
+</script>

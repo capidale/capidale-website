@@ -4,10 +4,14 @@
       class="py-6 md:flex md:flex-col md:items-center lg:block lg:pt-12"
     >
       <h2
-        class="block text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10"
+        class="text-base leading-6 text-light-green-600 font-semibold tracking-wide uppercase"
       >
         Evaluation
       </h2>
+      <span
+        class="block pt-3 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10"
+        >We can help show your charity’s impact</span
+      >
       <div class="flex flex-col-reverse lg:grid lg:grid-cols-2 lg:gap-x-8">
         <div class="pt-6 prose lg:prose">
           <p class="text-xl font-medium">
@@ -33,14 +37,18 @@
           </p>
           <ul>
             <li>
-              Design annual snapshot surveys to be undertaken with a proportion
-              of the people you support across all your work to show the
-              difference you make
-            </li>
-            <li>
               Work with you to develop project-specific evaluation using
               quantitative and qualitative techniques that demonstrate your
               project’s impact in the short and longer term
+            </li>
+            <li>
+              Produce external evaluation reports to evidence the difference you
+              make to funders and other organisations interested in your work
+            </li>
+            <li>
+              Design annual snapshot surveys to be undertaken with a proportion
+              of the people you support across all your work to show the
+              difference you make
             </li>
             <li>
               Show you how to simply gather impactful case studies and stories
@@ -58,3 +66,21 @@
     </Container>
   </Content>
 </template>
+
+<script>
+export default {
+  head() {
+    return {
+      title: 'Capidale - Evaluation',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'We can help show your charity’s impact with our evaluation and impact measurement expertise',
+        },
+      ],
+    }
+  },
+}
+</script>

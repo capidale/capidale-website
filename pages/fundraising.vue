@@ -4,10 +4,14 @@
       class="py-6 md:flex md:flex-col md:items-center lg:block lg:pt-12"
     >
       <h2
-        class="block text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10"
+        class="text-base leading-6 text-light-green-600 font-semibold tracking-wide uppercase"
       >
         Fundraising
       </h2>
+      <span
+        class="block pt-3 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10"
+        >We can help your charity grow</span
+      >
       <div class="flex flex-col-reverse lg:grid lg:grid-cols-2 lg:gap-x-8">
         <div class="pt-6 prose lg:prose">
           <p class="text-xl font-medium">
@@ -17,20 +21,20 @@
           </p>
           <p>
             We have a highly successful track record. For example, since 2011,
-            we have written 61 large applications to The National Lottery
-            Community Fund, successfully securing 72% of all funds requested.
-            This compares to an industry average success rate of around 10%.
+            we have written 85 applications to the National Lottery Community
+            Fund, 74% of which have been successful. So far, we have raised over
+            £29 million in lottery funds for our clients.
           </p>
           <p>
-            Our approach works with other funders too. In the last three years,
-            we have written six applications to the Henry Smith Charity, five
-            projects have been funded. And we have enjoyed success with Comic
-            Relief, Children in Need, Lloyds Bank Foundation, Garfield Weston,
-            Dunhill Medical Trust, Rayne Foundation, Esmée Fairbairn Foundation,
-            statutory funders and many, many smaller trusts and foundations.
+            Our approach works with other funders too. We have written 19
+            applications to the Henry Smith Charity, again with a 74% success
+            rate. And we have enjoyed success with Comic Relief, Children in
+            Need, Lloyds Bank Foundation, Garfield Weston, Dunhill Medical
+            Trust, Rayne Foundation, Esmée Fairbairn Foundation, statutory
+            funders and many, many smaller trusts and foundations.
           </p>
           <p>
-            We are deeply proud to have raised an average £51.66 for every £1
+            We are deeply proud to have raised an average £42.31 for every £1
             charged in fundraising fees. This compares to a national average
             return on investment for trusts, foundations and lottery fundraising
             of £8.36 (Institute of Fundraising).
@@ -58,3 +62,21 @@
     </Container>
   </Content>
 </template>
+
+<script>
+export default {
+  head() {
+    return {
+      title: 'Capidale - Fundraising',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'We specialise in trusts and foundations fundraising, we have a track record of success with the National Lottery Community Fund, Garfield Weston Foundation and Henry Smith Charity',
+        },
+      ],
+    }
+  },
+}
+</script>

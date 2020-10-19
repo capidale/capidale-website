@@ -1,6 +1,13 @@
 <template>
-  <section class="bg-gray-50">
-    <Container>
+  <Content>
+    <Container
+      class="py-6 md:flex md:flex-col md:items-center lg:block lg:pt-12"
+    >
+      <h2
+        class="text-base leading-6 text-light-green-600 font-semibold tracking-wide uppercase"
+      >
+        Case Studies
+      </h2>
       <div
         class="py-6 space-y-4 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-8"
       >
@@ -93,5 +100,23 @@
         </div>
       </div>
     </Container>
-  </section>
+  </Content>
 </template>
+
+<script>
+export default {
+  head() {
+    return {
+      title: 'Capidale - Case Studies',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            'A look at how Capidale has raised £46,214,768 for charities across the UK',
+        },
+      ],
+    }
+  },
+}
+</script>
