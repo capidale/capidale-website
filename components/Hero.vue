@@ -47,7 +47,7 @@
               <div class="flex justify-center pt-4 lg:justify-start lg:pt-8">
                 <span class="rounded-md shadow">
                   <a
-                    href="#"
+                    href="/contact"
                     class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-light-green-600 hover:bg-light-green-500 focus:outline-none focus:border-light-green-700 focus:shadow-outline-light-green transition duration-150 ease-in-out sm:min-w-xl sm:max-w-xl md:py-4 md:text-lg md:px-10"
                     >Get in touch</a
                   >
