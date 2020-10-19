@@ -73,9 +73,19 @@
       </div>
       <div>
         <p class="text-center text-gray-400">
-          &copy; 2011-2020 Capidale. All rights reserved.
+          &copy; 2011-{{ currentYear }} Capidale. All rights reserved.
         </p>
       </div>
     </div>
   </footer>
 </template>
+
+<script>
+export default {
+  data() {
+    return {
+      currentYear: new Date().getFullYear(),
+    }
+  },
+}
+</script>
