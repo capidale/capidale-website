@@ -21,10 +21,10 @@
         class="font-medium text-gray-500 hover:text-light-green-600 transition duration-150 ease-in-out"
         >Case Studies</nuxt-link
       >
-      <a
-        href="/news"
+      <nuxt-link
+        to="/news"
         class="font-medium text-gray-500 hover:text-light-green-600 transition duration-150 ease-in-out"
-        >News</a
+        >News</nuxt-link
       >
       <nuxt-link
         to="/about"
