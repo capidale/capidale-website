@@ -19,6 +19,7 @@
           >
             <div class="space-y-4">
               <input type="hidden" name="honeypot-stop-bot" />
+              <input type="hidden" name="form-name" value="contact" />
               <div class="grid grid-cols-2 gap-x-8">
                 <div class="space-y-1">
                   <label for="first-name" class="font-medium text-gray-600"
