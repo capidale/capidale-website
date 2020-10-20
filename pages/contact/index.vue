@@ -16,9 +16,10 @@
             method="POST"
             netlify-honeypot="bot-field"
             data-netlify="true"
+            novalidate
           >
             <div class="space-y-4">
-              <input type="hidden" name="bot-field" />
+              <input type="hidden" name="honeypot-stop-bot" />
               <div class="grid grid-cols-2 gap-x-8">
                 <div class="space-y-1">
                   <label for="first-name" class="font-medium text-gray-600"
