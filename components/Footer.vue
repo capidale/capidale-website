@@ -33,7 +33,7 @@
           >About</nuxt-link
         >
         <nuxt-link
-          href="/contact"
+          to="/contact"
           class="block pt-4 text-base font-medium text-gray-500 hover:text-light-green-700"
           >Contact us</nuxt-link
         >
