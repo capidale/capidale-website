@@ -12,6 +12,7 @@
         <div class="py-6 bg-white rounded-lg">
           <form
             name="contact"
+            action="/contact/thank-you"
             method="POST"
             netlify-honeypot="bot-field"
             data-netlify="true"
