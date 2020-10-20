@@ -94,7 +94,7 @@
                 <p class="text-gray-600">
                   We have successfully secured over £190,000 to help The Cellar
                   Trust continue their vital work to support people with mental
-                  health problems throughout the pandemic
+                  health problems throughout the pandemic.
                 </p>
                 <div class="pt-6">
                   <a
