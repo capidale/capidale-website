@@ -76,6 +76,11 @@
       <div>
         <p class="text-center text-gray-400">
           &copy; 2011-{{ currentYear }} Capidale. All rights reserved.
+          <nuxt-link
+            to="/privacy-policy"
+            class="font-medium hover:text-light-green-600 focus:text-light-green-600 focus:underline"
+            >Privacy policy</nuxt-link
+          >.
         </p>
       </div>
     </div>
