@@ -32,10 +32,10 @@
           class="block pt-4 text-base font-medium text-gray-500 hover:text-light-green-700"
           >About</nuxt-link
         >
-        <a
+        <nuxt-link
           href="/contact"
           class="block pt-4 text-base font-medium text-gray-500 hover:text-light-green-700"
-          >Contact us</a
+          >Contact us</nuxt-link
         >
       </div>
       <div class="flex items-center justify-center space-x-8">
