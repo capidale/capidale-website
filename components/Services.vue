@@ -56,10 +56,10 @@
                   all funds applied for.
                 </p>
                 <div class="pt-6">
-                  <a
-                    href="/fundraising"
+                  <nuxt-link
+                    to="/fundraising"
                     class="font-medium hover:text-light-green-600 focus:text-light-green-600 focus:underline"
-                    >Find out more -></a
+                    >Find out more -></nuxt-link
                   >
                 </div>
               </div>
@@ -105,10 +105,10 @@
                   fundraising.
                 </p>
                 <div class="pt-6">
-                  <a
-                    href="/evaluation"
+                  <nuxt-link
+                    to="/evaluation"
                     class="font-medium hover:text-light-green-600 focus:text-light-green-600 focus:underline"
-                    >Find out more -></a
+                    >Find out more -></nuxt-link
                   >
                 </div>
               </div>
@@ -149,10 +149,10 @@
                   </p>
                 </div>
                 <div class="pt-6">
-                  <a
-                    href="/training"
+                  <nuxt-link
+                    to="/training"
                     class="font-medium hover:text-light-green-600 focus:text-light-green-600 focus:underline"
-                    >Find out more -></a
+                    >Find out more -></nuxt-link
                   >
                 </div>
               </div>
