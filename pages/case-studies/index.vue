@@ -42,7 +42,7 @@
           <div
             class="absolute inset-0 flex flex-col justify-end p-3 rounded-lg bg-gradient-to-b from-transparent to-gray-800 lg:py-6 lg:px-8"
           >
-            <a href="/case-studies/women-and-girls" class="group">
+            <nuxt-link to="/case-studies/women-and-girls">
               <h2
                 class="text-base leading-6 text-light-green-50 font-semibold tracking-wide uppercase"
               >
@@ -52,7 +52,7 @@
                 class="block pt-2 text-2xl leading-8 font-extrabold tracking-tight text-white sm:text-3xl sm:leading-9 sm:max-w-md md:max-w-sm"
                 >Supporting women to recover from rape, neglect and abuse</span
               >
-            </a>
+            </nuxt-link>
           </div>
         </div>
         <div class="relative">
@@ -63,7 +63,7 @@
           <div
             class="absolute inset-0 flex flex-col justify-end p-3 rounded-lg bg-gradient-to-b from-transparent to-gray-800 lg:py-6 lg:px-8"
           >
-            <a href="/case-studies/children-and-young-people" class="group">
+            <nuxt-link to="/case-studies/children-and-young-people">
               <h2
                 class="text-base leading-6 text-light-green-50 font-semibold tracking-wide uppercase"
               >
@@ -73,7 +73,7 @@
                 class="block pt-2 text-2xl leading-8 font-extrabold tracking-tight text-white sm:text-3xl sm:leading-9 sm:max-w-md md:max-w-sm"
                 >£1.6 million raised to support disadvantaged young people</span
               >
-            </a>
+            </nuxt-link>
           </div>
         </div>
         <div class="relative">
@@ -84,7 +84,7 @@
           <div
             class="absolute inset-0 flex flex-col justify-end p-3 rounded-lg bg-gradient-to-b from-transparent to-gray-800 lg:py-6 lg:px-8"
           >
-            <a href="/case-studies/mental-health" class="group">
+            <nuxt-link to="/case-studies/mental-health">
               <h2
                 class="text-base leading-6 text-light-green-50 font-semibold tracking-wide uppercase"
               >
@@ -95,7 +95,7 @@
                 >Over £15 million raised to support people with mental health
                 problems</span
               >
-            </a>
+            </nuxt-link>
           </div>
         </div>
       </div>
