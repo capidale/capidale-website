@@ -43,6 +43,7 @@
           href="https://www.twitter.com/capidale"
           class="text-gray-500 hover:text-light-green-700"
           aria-label="Visit Capidale Twitter page"
+          target="_blank"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -59,6 +60,7 @@
           href="https://www.linkedin.com/company/capidale-consulting"
           class="text-gray-500 hover:text-light-green-700"
           aria-label="Visit Capidale Linkedin page"
+          target="_blank"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
