@@ -10,8 +10,18 @@
       </h2>
       <div class="flex flex-col-reverse lg:grid lg:grid-cols-2 lg:gap-x-8">
         <div class="py-6 bg-white rounded-lg">
-          <form name="contact" method="POST" data-netlify="true">
+          <form
+            name="contact"
+            method="POST"
+            netlify-honeypot="bot-field"
+            data-netlify="true"
+          >
             <div class="space-y-4">
+              <p class="hidden">
+                <label
+                  >Don’t fill this out if you're human: <input name="bot-field"
+                /></label>
+              </p>
               <div class="grid grid-cols-2 gap-x-8">
                 <div class="space-y-1">
                   <label for="first-name" class="font-medium text-gray-600"
