@@ -5,13 +5,25 @@
     <Stats />
     <CaseStudies />
     <Testimonials />
-    <News />
+    <News :articles="articles" />
     <Logos />
   </Content>
 </template>
 
 <script>
 export default {
+  async asyncData({ $content, params }) {
+    const articles = await $content('articles', params.slug)
+      .only(['title', 'description', 'slug', 'img', 'alt', 'createdAt'])
+      .sortBy('createdAt', 'desc')
+      .limit(3)
+      .fetch()
+
+    return {
+      articles,
+    }
+  },
+
   head() {
     return {
       title:

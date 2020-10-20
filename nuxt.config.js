@@ -49,7 +49,10 @@ export default {
    ** Plugins to load before mounting the App
    ** https://nuxtjs.org/guide/plugins
    */
-  plugins: [{ src: '~/plugins/vueAwesomeSwiper.js' }],
+  plugins: [
+    { src: '~/plugins/vueAwesomeSwiper.js' },
+    { src: '~/plugins/vueMoment.js' },
+  ],
   /*
    ** Auto import components
    ** See https://nuxtjs.org/api/configuration-components
@@ -70,6 +73,7 @@ export default {
   modules: [
     // Doc: https://axios.nuxtjs.org/usage
     '@nuxtjs/axios',
+    '@nuxt/content',
   ],
   /*
    ** Axios module configuration

@@ -43,10 +43,22 @@ module.exports = {
         108: '27rem',
         168: '42rem',
       },
+      typography: (theme) => ({
+        default: {
+          css: {
+            'blockquote p:first-of-type::before': false,
+            'blockquote p:last-of-type::after': false,
+            cite: {
+              color: theme('colors.gray.600'),
+              fontWeight: '500',
+            },
+          },
+        },
+      }),
     },
   },
   variants: {
-    filter: ['responsive', 'hover']
+    filter: ['responsive', 'hover'],
   },
   plugins: [
     require('@tailwindcss/typography'),
