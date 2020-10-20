@@ -10,7 +10,7 @@
       </h2>
       <div class="flex flex-col-reverse lg:grid lg:grid-cols-2 lg:gap-x-8">
         <div class="py-6 bg-white rounded-lg">
-          <form>
+          <form name="contact" method="POST" data-netlify="true">
             <div class="space-y-4">
               <div class="grid grid-cols-2 gap-x-8">
                 <div class="space-y-1">
@@ -82,12 +82,12 @@
               </div>
               <div>
                 <span class="rounded-md shadow">
-                  <a
-                    href="#"
+                  <button
+                    type="submit"
                     class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-light-green-600 hover:bg-light-green-500 focus:outline-none focus:border-light-green-700 focus:shadow-outline-light-green transition duration-150 ease-in-out sm:min-w-xl sm:max-w-xl md:py-4 md:text-lg md:px-10"
                   >
                     Let's talk
-                  </a>
+                  </button>
                 </span>
               </div>
             </div>
