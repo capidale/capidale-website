@@ -18,12 +18,12 @@
           >Training</nuxt-link
         >
         <nuxt-link
-          to="/"
+          to="/case-studies"
           class="block pt-4 text-base font-medium text-gray-500 hover:text-light-green-700"
           >Case Studies</nuxt-link
         >
         <a
-          href="#"
+          href="/news"
           class="block pt-4 text-base font-medium text-gray-500 hover:text-light-green-700"
           >News</a
         >
@@ -33,7 +33,7 @@
           >About</nuxt-link
         >
         <a
-          href="#"
+          href="/contact"
           class="block pt-4 text-base font-medium text-gray-500 hover:text-light-green-700"
           >Contact us</a
         >
