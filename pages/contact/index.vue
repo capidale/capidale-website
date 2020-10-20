@@ -18,11 +18,7 @@
             data-netlify="true"
           >
             <div class="space-y-4">
-              <p class="hidden">
-                <label
-                  >Don’t fill this out if you're human: <input name="bot-field"
-                /></label>
-              </p>
+              <input type="hidden" name="bot-field" />
               <div class="grid grid-cols-2 gap-x-8">
                 <div class="space-y-1">
                   <label for="first-name" class="font-medium text-gray-600"
