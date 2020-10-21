@@ -8,11 +8,11 @@
       >
         Women and Girls
       </h2>
-      <span
+      <h3
         class="block pt-3 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10"
-        >Almost £5 million raised to support Women and Girls just in
-        Yorkshire</span
       >
+        Almost £5 million raised to support Women and Girls just in Yorkshire
+      </h3>
       <div class="flex flex-col-reverse lg:grid lg:grid-cols-2 lg:gap-x-8">
         <div class="pt-6 prose lg:prose">
           <p class="text-lg font-medium">

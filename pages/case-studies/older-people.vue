@@ -8,10 +8,11 @@
       >
         Older People
       </h2>
-      <span
+      <h3
         class="block pt-3 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10"
-        >£8 million raised to improve later life across the UK</span
       >
+        £8 million raised to improve later life across the UK
+      </h3>
       <div class="flex flex-col-reverse lg:grid lg:grid-cols-2 lg:gap-x-8">
         <div class="pt-6 prose lg:prose">
           <p class="text-lg font-medium">
