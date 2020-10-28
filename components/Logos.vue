@@ -5,7 +5,7 @@
         <h2
           class="text-base leading-6 text-light-green-600 font-semibold tracking-wide uppercase"
         >
-          Who we work with
+          Who we've worked with
         </h2>
       </div>
       <div class="py-6">
@@ -253,8 +253,8 @@ export default {
       swiperOptions: {
         centeredSlides: true,
         autoplay: {
-          delay: 2500,
-          disableOnInteraction: false,
+          delay: 5000,
+          disableOnInteraction: true,
         },
       },
     }
