@@ -22,7 +22,7 @@
                   >
                   <span
                     class="text-base leading-6 text-light-green-100 font-semibold tracking-wide"
-                    >CEO, Time to Change</span
+                    >Global Director, Time to Change</span
                   >
                 </div>
               </footer>
@@ -113,6 +113,7 @@ export default {
     return {
       swiperOptions: {
         centeredSlides: true,
+        loop: true,
         autoplay: {
           delay: 5000,
           disableOnInteraction: true,

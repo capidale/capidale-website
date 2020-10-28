@@ -252,6 +252,7 @@ export default {
     return {
       swiperOptions: {
         centeredSlides: true,
+        loop: true,
         autoplay: {
           delay: 5000,
           disableOnInteraction: true,
