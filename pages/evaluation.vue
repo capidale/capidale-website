@@ -18,7 +18,8 @@
           <p class="text-xl font-medium">
             Most funders want evidence that their support has or will change
             people’s lives for the better. Our postgraduate level research
-            expertise can help you evaluate your projects and prove your impact.
+            expertise can help you evaluate your projects and demonstrate your
+            impact.
           </p>
           <p>
             Our exceptional results in fundraising have always been based on

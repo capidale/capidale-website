@@ -10,8 +10,9 @@
       </h2>
       <h3
         class="block pt-3 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10"
-        >We can build your fundraising and evaluation skills</h3
       >
+        We can build your fundraising and evaluation skills
+      </h3>
       <div class="flex flex-col-reverse lg:grid lg:grid-cols-2 lg:gap-x-8">
         <div class="pt-6 prose lg:prose">
           <p class="text-xl font-medium">
@@ -26,6 +27,10 @@
             <li>Applications to the National Lottery Community Fund</li>
             <li>Simple evaluation to prove your impact</li>
           </ul>
+          <p>
+            We are also happy to work with clients to provide bespoke training
+            to meet their needs.
+          </p>
         </div>
         <div class="pt-6">
           <img

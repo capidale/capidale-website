@@ -53,8 +53,8 @@
                 Louise started her career as a market researcher, before working
                 as a corporate and then major donor fundraiser for the British
                 Red Cross. She then became Head of Fundraising at Rethink, the
-                mental health charity where she increased voluntary fundraising
-                from £200,000 to over £2 million in just 5 years.
+                mental health charity where she increased voluntary income from
+                £200,000 to over £2 million in just 5 years.
               </p>
               <p>
                 She is particularly proud to have raised £16,000,000 to kick

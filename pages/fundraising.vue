@@ -10,8 +10,9 @@
       </h2>
       <h3
         class="block pt-3 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10"
-        >We can help your charity grow</h3
       >
+        We can help your charity grow
+      </h3>
       <div class="flex flex-col-reverse lg:grid lg:grid-cols-2 lg:gap-x-8">
         <div class="pt-6 prose lg:prose">
           <p class="text-xl font-medium">
@@ -28,7 +29,7 @@
           <p>
             Our approach works with other funders too. We have written 19
             applications to the Henry Smith Charity, again with a 74% success
-            rate. And we have enjoyed success with Comic Relief, Children in
+            rate. And we have secured funding from Comic Relief, BBC Children in
             Need, Lloyds Bank Foundation, Garfield Weston, Dunhill Medical
             Trust, Rayne Foundation, Esmée Fairbairn Foundation, statutory
             funders and many, many smaller trusts and foundations.
