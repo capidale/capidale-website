@@ -5,11 +5,11 @@
     >
       <slot name="pageTitle"></slot>
     </h2>
-    <h3
+    <p
       class="block pt-3 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10"
     >
       <slot name="pageSubtitle"></slot>
-    </h3>
+    </p>
     <div class="flex flex-col-reverse pt-8 lg:grid lg:grid-cols-2 lg:gap-x-10">
       <nuxt-content :document="document" class="prose" />
       <div v-if="image">
