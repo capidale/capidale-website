@@ -1,8 +1,6 @@
 <template>
-  <Content>
-    <Container
-      class="py-6 md:flex md:flex-col md:items-center lg:block lg:pt-12"
-    >
+  <main>
+    <Container class="py-6 md:flex md:flex-col md:items-center lg:block">
       <h2
         class="text-base leading-6 text-light-green-600 font-semibold tracking-wide uppercase"
       >
@@ -35,7 +33,7 @@
         </div>
       </div>
     </Container>
-  </Content>
+  </main>
 </template>
 
 <script>

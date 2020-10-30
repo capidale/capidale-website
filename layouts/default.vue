@@ -1,9 +1,17 @@
 <template>
-  <div class="min-h-screen font-sans antialiased bg-white">
+  <div>
     <Header />
     <Nuxt />
     <Footer />
   </div>
 </template>
 
-<style></style>
+<script>
+export default {
+  head: {
+    bodyAttrs: {
+      class: 'h-screen bg-white font-sans antialiased',
+    },
+  },
+}
+</script>

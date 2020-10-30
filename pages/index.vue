@@ -1,13 +1,13 @@
 <template>
-  <Content>
+  <main>
     <Hero />
     <Services />
     <Stats />
-    <CaseStudies />
+    <CaseStudies :case-studies="caseStudies" />
     <Testimonials />
     <News :articles="articles" />
     <Logos />
-  </Content>
+  </main>
 </template>
 
 <script>
@@ -19,8 +19,15 @@ export default {
       .limit(3)
       .fetch()
 
+    const caseStudies = await $content('case-studies', params.slug)
+      .only(['title', 'subtitle', 'slug', 'img'])
+      .sortBy('title', 'desc')
+      .limit(4)
+      .fetch()
+
     return {
       articles,
+      caseStudies,
     }
   },
 
