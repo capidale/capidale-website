@@ -35,12 +35,6 @@
                 </div>
                 <div class="p-4 rounded-lg shadow bg-white overflow-hidden">
                   <img
-                    src="~/assets/img/logo-rspca.png"
-                    class="filter-grayscale hover:filter-none"
-                  />
-                </div>
-                <div class="p-4 rounded-lg shadow bg-white overflow-hidden">
-                  <img
                     src="~/assets/img/logo-mencap.png"
                     class="filter-grayscale hover:filter-none"
                   />
@@ -84,6 +78,12 @@
                 <div class="p-4 rounded-lg shadow bg-white overflow-hidden">
                   <img
                     src="~/assets/img/logo-north-yorkshire-council.png"
+                    class="filter-grayscale hover:filter-none"
+                  />
+                </div>
+                <div class="p-4 rounded-lg shadow bg-white overflow-hidden">
+                  <img
+                    src="~/assets/img/logo-riverside-housing.png"
                     class="filter-grayscale hover:filter-none"
                   />
                 </div>
@@ -185,7 +185,7 @@
                 </div>
                 <div class="p-4 rounded-lg shadow bg-white overflow-hidden">
                   <img
-                    src="~/assets/img/logo-riverside-housing.png"
+                    src="~/assets/img/logo-purple-patch.png"
                     class="filter-grayscale hover:filter-none"
                   />
                 </div>
@@ -234,6 +234,54 @@
                 <div class="p-4 rounded-lg shadow bg-white overflow-hidden">
                   <img
                     src="~/assets/img/logo-womens-health-matters.png"
+                    class="filter-grayscale hover:filter-none"
+                  />
+                </div>
+                <div class="p-4 rounded-lg shadow bg-white overflow-hidden">
+                  <img
+                    src="~/assets/img/logo-well-women.png"
+                    class="filter-grayscale hover:filter-none"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div
+                class="w-full grid grid-cols-3 gap-y-4 gap-x-16 sm:grid-cols-4 lg:grid-cols-6"
+              >
+                <div class="p-4 rounded-lg shadow bg-white overflow-hidden">
+                  <img
+                    src="~/assets/img/logo-forget-me-not.png"
+                    class="filter-grayscale hover:filter-none"
+                  />
+                </div>
+                <div class="p-4 rounded-lg shadow bg-white overflow-hidden">
+                  <img
+                    src="~/assets/img/logo-margaret-carey.png"
+                    class="filter-grayscale hover:filter-none"
+                  />
+                </div>
+                <div class="p-4 rounded-lg shadow bg-white overflow-hidden">
+                  <img
+                    src="~/assets/img/logo-family-fund.png"
+                    class="filter-grayscale hover:filter-none"
+                  />
+                </div>
+                <div class="p-4 rounded-lg shadow bg-white overflow-hidden">
+                  <img
+                    src="~/assets/img/logo-hemlington-linx.png"
+                    class="filter-grayscale hover:filter-none"
+                  />
+                </div>
+                <div class="p-4 rounded-lg shadow bg-white overflow-hidden">
+                  <img
+                    src="~/assets/img/logo-citizens-advice-wirral.png"
+                    class="filter-grayscale hover:filter-none"
+                  />
+                </div>
+                <div class="p-4 rounded-lg shadow bg-white overflow-hidden">
+                  <img
+                    src="~/assets/img/logo-cenca.png"
                     class="filter-grayscale hover:filter-none"
                   />
                 </div>
