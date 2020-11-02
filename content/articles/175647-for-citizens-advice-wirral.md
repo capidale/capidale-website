@@ -3,6 +3,7 @@ title: £175,647 for Citizens Advice Wirral
 description: We are delighted that a grant from the Henry Smith Charity will support an extra 1,200 people over three years in Wirral to receive specialist debt and benefits advice.
 img: news-citizens-advice.png
 alt: citizens advice
+createdAt: 2020-10-09T10:06:48.917Z
 ---
 
 <p class="text-lg font-medium">We’re delighted to have raised £175,647 for Citizens Advice Wirral from The Henry Smith Charity.</p>
