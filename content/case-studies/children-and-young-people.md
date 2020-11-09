@@ -22,11 +22,8 @@ CHEXS is a Hertfordshire-based charity supporting disadvantaged young people and
 
 We were introduced to them by Hertfordshire Mind Network, who we worked with to secure a partnership lottery grant of £499,000 to fund ‘Broxbourne Better Futures’. We were very impressed with CHEXS’ work and the outcomes they achieve, in terms of raised for young people aspirations and improved family relationships.
 
-We were delighted when Pete Maiden, CHEXS’ CEO, asked us to help them raise funds independently of the wider partnership. We helped them secure four new grants, as follows:
+We were delighted when Pete Maiden, CHEXS’ CEO, asked us to help them raise funds independently of the wider partnership. We helped them secure four further grants which raised a total of £278,410 and enabled them to significantly expand their work with parents and disadvantaged young people.
 
-- Henry Smith Charity - £110,653
-- Children in Need - £86,598
-- Children in Need (2nd grant) - £56,159
-- Garfield Weston Foundation - £25,000
-
-This has enabled them to introduce after school and holiday clubs for the first time and significantly expand their work with parents. Pete was also able to use our applications to successfully apply to the National Lottery Community for funding for their family support work.
+> “We were really pleased with the support we got from Capidale, which not only helped us to increase our income, but also enabled us to develop our fundraising skills, which we now use to apply for further funding.”
+>
+> <cite>Pete Maiden, Chief Executive, CHEXS</cite>
