@@ -19,7 +19,7 @@
         </p>
       </div>
       <div
-        class="py-6 space-y-8 sm:space-y-0 sm:grid sm:grid-cols-3 sm:gap-x-8 sm:gap-y-10"
+        class="py-6 space-y-8 md:space-y-0 md:grid md:grid-cols-3 md:gap-x-8 md:gap-y-10"
       >
         <div>
           <span class="block text-3xl font-bold text-center text-white"

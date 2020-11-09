@@ -7,20 +7,20 @@
         >
           <div>
             <img
-              class="h-56 w-full rounded-lg shadow-md object-cover sm:h-72 md:h-96 lg:h-108"
+              class="hidden w-full rounded-lg shadow-md object-cover sm:block sm:h-72 lg:h-108"
               src="~/assets/img/hero.jpg"
               alt
             />
           </div>
           <div class="lg:absolute lg:inset-0 lg:flex lg:items-center lg:px-8">
             <div>
-              <h2
-                class="text-6xl tracking-tight lea ding-10 font-extrabold text-center text-gray-900 sm:text-5xl sm:leading-none md:text-6xl lg:text-left lg:text-light-green-100"
-              >
-                <span class="text-3xl sm:text-4xl"
+              <h2>
+                <span
+                  class="block text-2xl tracking-tight font-extrabold text-gray-900 sm:text-3xl sm:leading-none sm:text-center md:text-3xl lg:text-left lg:text-light-green-100"
                   >In just 10 years, we've raised</span
-                ><br />
-                <span class="text-light-green-600 lg:text-white"
+                >
+                <span
+                  class="block text-5xl tracking-tight font-extrabold sm:text-6xl sm:text-center md:text-6xl lg:text-left text-light-green-600 lg:text-white"
                   ><ICountUp
                     :delay="delay"
                     :end-val="endVal"
@@ -29,7 +29,7 @@
                 /></span>
               </h2>
               <p
-                class="pt-3 text-base font-medium text-center text-gray-500 sm:pt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:text-xl lg:mx-0 lg:text-left lg:text-light-green-100"
+                class="pt-3 text-base font-medium text-gray-500 sm:pt-5 sm:text-lg sm:max-w-xl sm:mx-auto sm:text-center md:text-xl lg:mx-0 lg:text-left lg:text-light-green-100"
               >
                 We help charities
                 <span class="font-bold text-light-green-600 lg:text-white"
@@ -44,7 +44,7 @@
                 >
                 helps charities prove their impact.
               </p>
-              <div class="flex justify-center pt-4 lg:justify-start lg:pt-8">
+              <div class="flex pt-4 sm:justify-center lg:justify-start lg:pt-8">
                 <span class="inline-flex rounded-md shadow">
                   <nuxt-link
                     to="/contact"

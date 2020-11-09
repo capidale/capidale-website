@@ -6,7 +6,7 @@
       >
         Case Studies
       </h2>
-      <div class="py-6 space-y-4 md:space-y-0 md:grid md:grid-cols-2 md:gap-10">
+      <div class="py-6 space-y-8 md:space-y-0 md:grid md:grid-cols-2 md:gap-10">
         <nuxt-link
           v-for="caseStudy of caseStudies"
           :key="caseStudy.slug"

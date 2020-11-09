@@ -1,6 +1,6 @@
 <template>
   <Fragment>
-    <div class="hidden md:flex md:items-center md:space-x-4 lg:space-x-8">
+    <div class="hidden lg:flex lg:items-center lg:space-x-8">
       <nuxt-link
         to="/fundraising"
         class="font-medium text-gray-500 hover:text-light-green-600 transition duration-150 ease-in-out"

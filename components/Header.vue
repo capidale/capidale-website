@@ -3,7 +3,7 @@
     <Container>
       <nav class="flex items-center justify-between py-4">
         <div class="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
-          <div class="flex items-center justify-between w-full md:w-auto">
+          <div class="flex items-center justify-between w-full lg:w-auto">
             <h1 class="sr-only">Capidale</h1>
             <nuxt-link to="/" aria-label="Home">
               <img

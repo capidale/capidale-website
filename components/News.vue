@@ -27,7 +27,7 @@
                 <span class="text-base font-medium text-light-green-600">{{
                   article.createdAt | moment('MMMM YYYY')
                 }}</span>
-                <h3 class="text-xl font-bold text-gray-900">
+                <h3 class="text-xl font-bold text-gray-900 sm:text-2xl">
                   {{ article.title }}
                 </h3>
               </div>

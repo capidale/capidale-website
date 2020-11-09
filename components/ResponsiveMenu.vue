@@ -1,5 +1,5 @@
 <template>
-  <div class="-mr-2 flex items-center md:hidden">
+  <div class="-mr-2 flex items-center lg:hidden">
     <button
       id="main-menu"
       type="button"
@@ -32,7 +32,7 @@
     >
       <div
         v-show="isResponsiveMenuOpen"
-        class="absolute z-10 top-0 inset-x-0 p-2 transition transform origin-top-right md:hidden"
+        class="absolute z-10 top-0 inset-x-0 p-2 transition transform origin-top-right lg:hidden"
       >
         <div class="rounded-lg shadow-md">
           <div

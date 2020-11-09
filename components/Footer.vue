@@ -22,10 +22,10 @@
           class="block pt-4 text-base font-medium text-gray-500 hover:text-light-green-700"
           >Case Studies</nuxt-link
         >
-        <a
-          href="/news"
+        <nuxt-link
+          to="/news"
           class="block pt-4 text-base font-medium text-gray-500 hover:text-light-green-700"
-          >News</a
+          >News</nuxt-link
         >
         <nuxt-link
           to="/about"
