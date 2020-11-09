@@ -5,7 +5,7 @@ img: services-evaluation.jpg
 alt: evaluation
 ---
 
-<p class="text-lg font-medium">Most funders want evidence that their support has or will changepeople’s lives for the better. Our postgraduate level research expertise can help you evaluate your projects and demonstrate your impact.</p>
+<p class="text-lg font-medium">Most funders want evidence that their support has or will change people’s lives for the better. Our postgraduate level research expertise can help you evaluate your projects and demonstrate your impact.</p>
  
 Our exceptional results in fundraising have always been based on providing funders with hard evidence of the difference our clients make to the people they work with.
 

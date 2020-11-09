@@ -5,7 +5,7 @@ img: services-training.jpg
 alt: training
 ---
 
-<p class="text-lg font-medium">We regularly get asked about the secrets of our success and we’re delighted to share them through our tailored training programmes.</p>
+<p class="text-lg font-medium">We regularly get asked about the secrets of our success and we’re delighted to share them through our tailored training programmes. We frequently deliver training courses on behalf of the Institute of Fundraising Yorkshire.</p>
  
 We prepare and deliver training on:
 

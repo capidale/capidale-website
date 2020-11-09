@@ -26,7 +26,7 @@
             >65%</span
           >
           <span class="block text-center text-light-green-50"
-            >of all funds requested for<br />our clients, we secure</span
+            >of all funds requested for<br />our clients, we have secured</span
           >
         </div>
         <div>
