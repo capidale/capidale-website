@@ -1,11 +1,11 @@
 ---
 title: Mental Health
-subtitle: Over £15 million raised to support people with mental health problems
+subtitle: Over £15 million raised to help people with mental health problems
 img: case-study-mental-health.jpg
 alt: mental health
 ---
 
-<p class="text-lg font-medium">Our roots are in the mental health sector, as Louise was previously Head of Fundraising for Rethink Mental Illness.</p>
+Our roots are in the mental health sector, as Louise was previously Head of Fundraising for Rethink Mental Illness.
 
 Before founding Capidale, Louise secured £16,000,000 from the Big Lottery Fund (now the National Lottery Community Fund) to set up the ground-breaking Time to Change anti-stigma campaign.
 
@@ -17,7 +17,7 @@ We have continued to successfully raise funds for many mental health charities a
 - The Cellar Trust - £242,975
 - National Survivor Users’ Network - £44,281
 
-### Case Study: Middlesbrough & Stockton Mind
+#### Case Study: Middlesbrough & Stockton Mind
 
 In 2013 we were approached by Emma Howitt, Chief Executive of Middlesbrough & Stockton Mind to help her with an application to the National Lottery Community Fund’s Ageing Better Programme. We worked with Emma for several months, helping to design and write the application. We eventually raised £5,995,432.
 

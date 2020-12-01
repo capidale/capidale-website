@@ -1,39 +1,38 @@
 <template>
-  <main>
-    <Container class="py-6 md:flex md:flex-col md:items-center lg:block">
-      <h2
-        class="text-base leading-6 text-light-green-600 font-semibold tracking-wide uppercase"
-      >
-        News
-      </h2>
+  <Content>
+    <template #pageTitle>News</template>
+    <div
+      class="mt-6 space-y-4 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-16 md:gap-y-8"
+    >
       <div
-        class="py-6 space-y-4 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-8"
+        v-for="article of articles"
+        :key="article.slug"
+        class="flex flex-col"
       >
-        <div v-for="article of articles" :key="article.slug">
-          <div class="space-y-1">
-            <span class="text-base font-medium text-light-green-600">{{
-              article.createdAt | moment('MMMM YYYY')
-            }}</span>
-            <h3 class="text-xl font-bold text-gray-900">
-              {{ article.title }}
-            </h3>
-          </div>
-          <div class="pt-3">
-            <p class="text-gray-600">
-              {{ article.description }}
-            </p>
-            <div class="pt-6">
-              <nuxt-link
-                :to="`/news/${article.slug}`"
-                class="font-medium hover:text-light-green-600 focus:text-light-green-600 focus:underline"
-                >Read more -></nuxt-link
-              >
-            </div>
-          </div>
+        <div>
+          <span
+            class="text-sm font-semibold tracking-wide text-lime-600 uppercase"
+            >{{ article.createdAt | moment('MMMM YYYY') }}</span
+          >
+          <h3
+            class="mt-2 text-xl font-extrabold text-cool-gray-900 sm:text-2xl"
+          >
+            {{ article.title }}
+          </h3>
+          <p class="mt-3 text-lg text-cool-gray-600">
+            {{ article.description }}
+          </p>
+        </div>
+        <div class="mt-4 flex-1 flex items-end">
+          <nuxt-link
+            :to="`/news/${article.slug}`"
+            class="rounded-md font-medium text-cool-gray-500 transition duration-150 ease-in-out transform hover:-translate-y-1 hover:text-lime-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-lime-600 focus-visible:ring-offset-4"
+            >Read more -></nuxt-link
+          >
         </div>
       </div>
-    </Container>
-  </main>
+    </div>
+  </Content>
 </template>
 
 <script>

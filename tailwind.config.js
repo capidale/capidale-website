@@ -1,17 +1,9 @@
+const colors = require('tailwindcss/colors')
 const defaultTheme = require('tailwindcss/defaultTheme')
 
 module.exports = {
-  experimental: {
-    applyComplexClasses: true,
-    defaultLineHeights: true,
-    extendedFontSizeScale: true,
-    extendedSpacingScale: true,
-    uniformColorPalette: true,
-  },
-  future: {
-    purgeLayersByDefault: true,
-    removeDeprecatedGapUtilities: true,
-  },
+  experimental: {},
+  future: {},
   theme: {
     extend: {
       boxShadow: {
@@ -30,6 +22,8 @@ module.exports = {
           800: '#558b2f',
           900: '#33691e',
         },
+        'cool-gray': colors.coolGray,
+        lime: colors.lime,
       },
       filter: {
         none: 'none',
@@ -40,16 +34,42 @@ module.exports = {
       },
       height: {
         88: '22rem',
+        100: '25rem',
         108: '27rem',
         168: '42rem',
       },
       typography: (theme) => ({
         default: {
           css: {
-            'blockquote p:first-of-type::before': false,
-            'blockquote p:last-of-type::after': false,
+            color: theme('colors.coolGray.700'),
+          },
+        },
+        lg: {
+          css: {
+            'blockquote p:first-of-type': {
+              fontSize: defaultTheme.fontSize.lg,
+              lineHeight: '1.6666667em',
+              fontWeight: '500',
+              fontStyle: 'italic',
+            },
+            blockquote: {
+              borderLeftColor: theme('colors.coolGray.600'),
+            },
+            'blockquote p': {
+              '&::before': {
+                content: 'none !important',
+              },
+              '&::after': {
+                content: 'none !important',
+              },
+            },
+            'p:first-of-type': {
+              fontSize: '1.25rem',
+              lineHeight: '1.8em',
+              fontWeight: defaultTheme.fontWeight.semibold,
+            },
             cite: {
-              color: theme('colors.gray.600'),
+              color: theme('colors.coolGray.600'),
               fontWeight: '500',
             },
           },
@@ -58,12 +78,16 @@ module.exports = {
     },
   },
   variants: {
-    filter: ['responsive', 'hover'],
+    filter: ['hover'],
+    ringColor: ['focus', 'focus-visible'],
+    ringOffsetColor: ['focus-visible'],
+    ringOffsetWidth: ['focus-visible'],
+    ringWidth: ['focus-visible'],
   },
   plugins: [
     require('@tailwindcss/typography'),
+    require('@tailwindcss/forms'),
     require('tailwindcss-filters'),
-    require('@tailwindcss/ui'),
   ],
   purge: {
     // Learn more on https://tailwindcss.com/docs/controlling-file-size/#removing-unused-css

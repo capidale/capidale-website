@@ -3,16 +3,16 @@ title: Success for Somerset Wildlife Trust
 description: We are thrilled to have raised £290,000 for Somerset Wildlife Trust, working in partnership with Quantock, Blackdown and Mendip Areas of Outstanding Natural Beauty.
 img: news-somerset-wildlife-trust.png
 alt: somerset wildlife trust
-createdAt: 2020-09-20T10:06:48.917Z
+createdAt: 2020-09-20
 ---
 
-<p class="text-lg font-medium">We are thrilled to have raised £290,000 for Somerset Wildlife Trust, working in partnership with Quantock, Blackdown and Mendip Areas of Outstanding Natural Beauty.</p>
+We are thrilled to have raised £290,000 for Somerset Wildlife Trust, working in partnership with Quantock, Blackdown and Mendip Areas of Outstanding Natural Beauty.
 
-Somerset Wildlife Trust has been protecting and preserving Somerset’s wildlife and wild places for over 50 years. They work to protewildlife, transform landscapes and put nature back into people’s lives.
+Somerset Wildlife Trust has been protecting and preserving Somerset’s wildlife and wild places for over 50 years. They work to protect wildlife, transform landscapes and put nature back into people’s lives.
 
-Despite Somerset being a rural county, people experiencing mental health problems across Somerset say they need more help to access outdoactivities to help improve their mental health. As a result, the partnership wanted to deliver a project that connects Somerset’s communitiwith the natural environment to help improve mental health.
+Despite Somerset being a rural county, people experiencing mental health problems across Somerset say they need more help to access outdoactivities to help improve their mental health. As a result, the partnership wanted to deliver a project that connects Somerset’s communities with the natural environment to help improve mental health.
 
-We helped them develop an application to the National Lottery Community Fund’s Reaching Communities programme for their Somerset NatuConnections project which will support people with mental health problems to directly access local natural environments.
+We helped them develop an application to the National Lottery Community Fund’s Reaching Communities programme for their Somerset Nature Connections project which will support people with mental health problems to directly access local natural environments.
 
 We are truly delighted the application was successful and thoroughly enjoyed working with the nature partnership.
 
