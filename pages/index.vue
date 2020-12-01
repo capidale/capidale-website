@@ -1,12 +1,26 @@
 <template>
   <main>
-    <Hero />
-    <Services />
-    <Stats />
-    <CaseStudies :case-studies="caseStudies" />
-    <Testimonials />
-    <News :articles="articles" />
-    <Logos />
+    <Section class="py-4 md:py-6">
+      <SectionHero />
+    </Section>
+    <Section class="py-4 md:py-6">
+      <SectionServices :services="services" />
+    </Section>
+    <Section class="py-16" brand>
+      <SectionStats :stats="stats" />
+    </Section>
+    <Section class="py-16">
+      <SectionCaseStudies :case-studies="caseStudies" />
+    </Section>
+    <Section class="py-4 md:py-6" brand>
+      <SectionTestimonials :testimonials="testimonials" />
+    </Section>
+    <Section class="pt-16">
+      <SectionNews :articles="articles" />
+    </Section>
+    <Section class="pt-4 pb-16 md:pt-6">
+      <SectionLogos :logos="logos" />
+    </Section>
   </main>
 </template>
 
@@ -25,9 +39,32 @@ export default {
       .limit(4)
       .fetch()
 
+    const logos = await $content('logos')
+      .only(['name', 'img'])
+      .sortBy('slide', 'asc')
+      .fetch()
+
+    const services = await $content('services', params.slug)
+      .only(['title', 'description', 'icon', 'slug'])
+      .sortBy('serviceId', 'asc')
+      .limit(3)
+      .fetch()
+
+    const stats = await $content('stats', params.slug)
+      .only(['stat', 'description'])
+      .sortBy('statId', 'asc')
+      .limit(3)
+      .fetch()
+
+    const testimonials = await $content('testimonials').limit(4).fetch()
+
     return {
       articles,
       caseStudies,
+      logos,
+      services,
+      stats,
+      testimonials,
     }
   },
 

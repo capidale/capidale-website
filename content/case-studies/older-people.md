@@ -5,7 +5,7 @@ img: case-study-older-people.jpg
 alt: older people
 ---
 
-<p class="text-lg font-medium">We are proud to have worked with many local and national charities supporting older people.</p>
+We are proud to have worked with many local and national charities supporting older people.
 
 Our clients and funds raised for them to date include:
 
@@ -18,7 +18,7 @@ Our clients and funds raised for them to date include:
 - Leeds Jewish Welfare Board - £403,246
 - Age UK North East Lincolnshire - £366,939
 
-### Case Study: Time for Tea, Age UK Wakefield
+#### Case Study: Time for Tea, Age UK Wakefield
 
 For several years, Age UK Wakefield has run a monthly ‘cuppa club’ in partnership with the Ridings Shopping Centre in Wakefield. The Ridings noticed that many older people would spend hours at the shopping centre, not speaking to anyone and sitting on their own.
 
@@ -26,7 +26,7 @@ They wanted to do something to help and so, with Age UK Wakefield’s support, t
 
 Age UK Wakefield asked us to help them raise funds to extend the idea to other shopping centres across the district. We helped them develop an application to the National Lottery Community Fund, which successfully secured £280,119 to help them realise their ambition. Soon, Time for Tea will be running in five new shopping centres across the district, reaching 6,000 older people – and helping Age UK Wakefield identify those ‘hard to reach’ older people who need extra help.
 
-### Case Study: Age UK South Lakeland
+#### Case Study: Age UK South Lakeland
 
 We began working for Age UK South Lakeland in 2014, initially helping them secure a lottery grant of £499,000. They subsequently outsourced all their fundraising to us and, over the next five years, we raised almost £1.5 million for them, submitting 51 applications and securing 28 grants.
 

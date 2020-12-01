@@ -5,7 +5,7 @@ img: case-study-children-young-people.jpg
 alt: children & young people
 ---
 
-<p class="text-lg font-medium">We have successfully raised funds for several children and youth charities.</p>
+We have successfully raised funds for several children and youth charities.
 
 Our clients and funds raised for them to date include:
 
@@ -16,7 +16,7 @@ Our clients and funds raised for them to date include:
 - Forget Me Not Children’s Hospice - £165,322
 - Hemlington Linx - £60,000
 
-### Case Study: CHEXS
+#### Case Study: CHEXS
 
 CHEXS is a Hertfordshire-based charity supporting disadvantaged young people and their families, focusing on Broxbourne.
 

@@ -3,10 +3,10 @@ title: Over £190,000 for The Cellar Trust
 description: We have successfully secured over £190,000 to help The Cellar Trust continue their vital work to support people with mental health problems throughout the pandemic.
 img: news-the-cellar-trust.png
 alt: the cellar trust
-createdAt: 2020-08-20T10:06:48.917Z
+createdAt: 2020-08-20
 ---
 
-<p class="text-lg font-medium">The Cellar Trust is an award winning, mental health charity based in Shipley, near Bradford. Peer support underlines everything they do, with three-quarters of front-line staff having personal experience of mental health problems.</p>
+The Cellar Trust is an award winning, mental health charity based in Shipley, near Bradford. Peer support underlines everything they do, with three-quarters of front-line staff having personal experience of mental health problems.
 
 People with mental health problems have been one of the groups hardest hit by the Covid-19 pandemic and subsequent lockdown. The Cellar Trust has experienced a 43% increase in demand for their crisis support and this work continues to operate at full capacity.
 

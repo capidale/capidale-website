@@ -1,11 +1,11 @@
 ---
 title: Women & Girls
-subtitle: Almost £5 million raised to support Women and Girls just in Yorkshire
+subtitle: Almost £5 million raised to support Women and Girls in Yorkshire
 img: case-study-women-girls.jpg
 alt: women & girls
 ---
 
-<p class="text-lg font-medium">We have a very strong track record in raising funds for charities supporting disadvantaged women and girls.</p>
+We have a very strong track record in raising funds for charities supporting disadvantaged women and girls.
 
 Our clients and funds raised for them to date include:
 
@@ -14,7 +14,7 @@ Our clients and funds raised for them to date include:
 - Women's Health Matters - £760,831
 - Wakefield Well Women’s Centre - £74,650
 
-### Case Study: Women's Counselling and Therapy Service
+#### Case Study: Women's Counselling and Therapy Service
 
 Women's Counselling and Therapy Service (WCTS) helps women in Leeds recover from the trauma of rape, neglect and abuse. Director, Tessa Denham, contacted us for help in 2012, explaining that they were almost wholly reliant on statutory contracts, but their funding was under threat due to constraints in local authority spending.
 
