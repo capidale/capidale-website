@@ -5,7 +5,7 @@ img: news-middlesbrough-and-stockton-mind-jan-21.jpg
 alt: middlesbrough-and-stockton-mind
 ---
 
-We are delighted to start 2021, with a double win for Middlesbrough & Stockton Mind, raising £28,216 from the North East and North Cumbria Integrated Care System and Catalyst.
+We are delighted to start 2021, with a double win for Middlesbrough & Stockton Mind raising £28,216 from the North East and North Cumbria Integrated Care System and Catalyst.
 
 Middlesbrough & Stockton Mind support people of all ages in the Tees Valley to enjoy good mental health. They specialise in helping the most vulnerable and socially excluded people in their community - one-in-three people they support live in the 1% most deprived areas nationally. Throughout the COVID-19 pandemic, Middlesbrough & Stockton Mind has been responding to a significant increased in demand for advice, information, and support.
 
