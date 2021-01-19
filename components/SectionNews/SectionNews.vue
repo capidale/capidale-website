@@ -8,18 +8,18 @@
         <div
           v-for="article of articles"
           :key="article.slug"
-          class="flex flex-col rounded-lg shadow overflow-hidden"
+          class="flex flex-col overflow-hidden rounded-lg shadow"
         >
           <div>
             <img
               :src="`/img/${article.img}`"
               :alt="article.alt"
-              class="h-36 w-full shadow object-cover"
+              class="object-cover w-full h-48 shadow"
             />
-            <div class="mt-4 px-4 bg-white">
+            <div class="px-4 mt-4 bg-white">
               <div>
                 <span
-                  class="text-sm font-semibold tracking-wide text-lime-600 uppercase"
+                  class="text-sm font-semibold tracking-wide uppercase text-lime-600"
                   >{{ article.createdAt | moment('MMMM YYYY') }}</span
                 >
                 <h3
@@ -33,7 +33,7 @@
               </p>
             </div>
           </div>
-          <div class="flex-1 flex items-end mt-4 pb-4 px-4">
+          <div class="flex items-end flex-1 px-4 pb-4 mt-4">
             <TextLink :to="`/news/${article.slug}`">Read more -></TextLink>
           </div>
         </div>
