@@ -21,7 +21,9 @@ Our clients and funds raised for them to date include:
 
 We’ve been working with the Wildlife Trusts since 2013 to help them raise funds to deliver projects which improve people’s mental and physical wellbeing – through engaging in outdoor activity, be it volunteering in conservation activities, going for a country walk or visiting their local park or nature reserve.
 
-In 2019, we helped The Wildlife Trusts secure £6.3 million from the Department for Education and the Department of Environment, Food and Rural Affairs through their Nature Friendly Schools Programme. Managed by Natural England, a funding programme was announced where only one consortium would be successful – and we were given just 6 weeks to develop an application. Working closely with the Wildlife Trusts team, as well as their partners Groundwork, YoungMinds, The Sensory Trust and Field Studies Council, we developed a winning bid. As a result, over four years, children from 500 schools in England’s most deprived areas will be able to access programmes designed to improve their mental wellbeing through greater access to local green spaces and improved school grounds.
+In 2019, we helped The Wildlife Trusts secure £6.3 million from the Department for Education and the Department of Environment, Food and Rural Affairs through their Nature Friendly Schools Programme. Managed by Natural England, a funding programme was announced where only one consortium would be successful – and we were given just 6 weeks to develop an application.
+
+Working closely with the Wildlife Trusts team, as well as their partners Groundwork, YoungMinds, The Sensory Trust and Field Studies Council, we developed a winning bid. As a result, over four years, children from 500 schools in England’s most deprived areas will be able to access programmes designed to improve their mental wellbeing through greater access to local green spaces and improved school grounds.
 
 #### Case Study: CHEXS
 
