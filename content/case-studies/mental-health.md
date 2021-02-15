@@ -14,8 +14,8 @@ We have continued to successfully raise funds for many mental health charities a
 - Middlesbrough and Stockton Mind - £7,279,135
 - Time to Change - £4,560,262
 - Mind (national) - £1,466,509
+- National Survivor Users’ Network - £323,215
 - The Cellar Trust - £242,975
-- National Survivor Users’ Network - £44,281
 
 #### Case Study: Middlesbrough & Stockton Mind
 
