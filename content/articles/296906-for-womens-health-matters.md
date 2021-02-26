@@ -1,7 +1,6 @@
 ---
 title: £296,906 for Women's Health Matters
-description: Our latest success with the National Lottery Community Fund's Reaching Communities programme will support women in Leeds who have
-experienced domestic abuse and may have their child put in care.
+description: Our latest success with the National Lottery Community Fund's Reaching Communities programme will support women in Leeds who have experienced domestic abuse and may have their child put in care.
 img: news-womens-health-matters-feb-21.jpg
 alt: Women's Health Matters
 createdAt: 2021-02-26
