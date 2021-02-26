@@ -12,7 +12,7 @@ Women’s Health Matters supports women and girls from Leeds’ most disadvantag
 
 We started working with Women's Health Matters in mid-2019 to develop an application to the National Lottery Community Fund's Reaching Communities programme to build on learning from an existing project we previously helped them to achieve funding for.
 
-In March 2020, we were due to receive a final decision imminently, but the Fund paused our application to respond to the COVID-19 pandemic. Our application was reactivated in September 2020 and following some adjustments for a post-COVID environment it has finally been successful.
+In March 2020, we were due to receive a final decision on our application any day, but the Fund paused it to respond to the COVID-19 pandemic. Our application was reactivated in September 2020 and following some adjustments for a post-COVID environment it has finally been successful.
 
 Over three years, this new project will support around 250 women who have experienced complex trauma, usually domestic abuse, and are at risk of having a child removed into care. Often the women supported will have poor relationships with their Social Worker and be mistrustful of statutory agencies.
 
