@@ -4,6 +4,7 @@ description: Our latest success with the National Lottery Community Fund's Reach
 experienced domestic abuse and may have their child put in care.
 img: news-womens-health-matters-feb-21.jpg
 alt: Women's Health Matters
+createdAt: 2021-02-26
 ---
 
 We are delighted to have raised £296,906 for Women's Health Matters from the National Lottery Community Fund's Reaching Communities programme.

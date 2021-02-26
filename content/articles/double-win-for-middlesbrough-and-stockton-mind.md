@@ -3,6 +3,7 @@ title: Double win for Middlesbrough & Stockton Mind
 description: We are delighted to start 2021 with a double win for Middlesbrough & Stockton Mind, raising £28,216 from the North East and North Cumbria ICS and Catalyst.
 img: news-middlesbrough-and-stockton-mind-jan-21.jpg
 alt: middlesbrough-and-stockton-mind
+createdAt: 2021-01-10
 ---
 
 We are delighted to start 2021, with a double win for Middlesbrough & Stockton Mind raising £28,216 from the North East and North Cumbria Integrated Care System and Catalyst.
