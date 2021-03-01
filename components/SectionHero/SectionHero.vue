@@ -1,10 +1,10 @@
 <template>
   <div
-    class="relative flex flex-col-reverse space-y-reverse space-y-4 lg:space-y-0"
+    class="relative flex flex-col-reverse space-y-4 space-y-reverse lg:space-y-0"
   >
     <div>
       <img
-        class="h-56 w-full rounded-lg shadow-md object-cover sm:h-72 lg:h-108"
+        class="object-cover w-full h-56 rounded-lg shadow-md sm:h-72 lg:h-108"
         src="~/assets/img/hero.jpg"
         alt
       />
@@ -17,7 +17,7 @@
             >In just 10 years, we've raised</span
           >
           <span
-            class="block mt-2 text-5xl tracking-tight font-extrabold text-center text-lime-600 sm:text-6xl md:text-8xl lg:text-left lg:text-white"
+            class="block mt-2 text-5xl font-extrabold tracking-tight text-center text-lime-600 sm:text-6xl md:text-8xl lg:text-left lg:text-white"
             ><ICountUp
               :delay="delay"
               :end-val="endVal"
@@ -57,7 +57,7 @@ export default {
   data() {
     return {
       delay: 500,
-      endVal: 46214768,
+      endVal: 47599961,
       options: {
         duration: 1,
         useEasing: true,
