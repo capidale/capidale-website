@@ -1,7 +1,7 @@
 ---
 title: £70,000 for Age UK Wakefield & District
 description: We are delighted that a grant from the Armed Forces Covenent Fund Trust will engage 400 older veterans experiencing loneliness and social isolation.
-img: news-age-uk-wakefield-march-21.png
+img: news-age-uk-wakefield-march-21.jpg
 alt: age uk wakefield
 createdAt: 2021-03-02
 ---
