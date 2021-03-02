@@ -10,7 +10,7 @@ We are delighted to have raised £70,000 for Age UK Wakefield & District from Th
 
 Age UK Wakefield & District help around 10,000 older people in their community overcome loneliness, poverty and ill-health. They do this by providing information and advice to all older people who need it and holistic, person-centered support to those experiencing a crisis.
 
-In June 2020, we helped Age UK Wakefield & District secure a grant of £18,747 through the The Armed Forces Covenent Fund Trust's Veterans Shall Not Be Forgotten programme.. This grant enabled the charity to expand their existing work with older veterans by supporting an additonal 250 isolated and vulnerable veterans during the COVID-19 pandemic.
+In June 2020, we helped Age UK Wakefield & District secure a grant of £18,747 through the The Armed Forces Covenent Fund Trust's Veterans Shall Not Be Forgotten programme. This grant enabled the charity to expand their existing work with older veterans, supporting an additonal 250 isolated and vulnerable veterans during the COVID-19 pandemic.
 
 In September 2020, the team asked us to help develop a follow-up application to The Armed Forces Covenent Fund Trust's Tackling Loneliness programme to continue this work. As part of this, we created a survey to further understand the needs of local veterans and whether the proposed project would make a difference to them.
 
