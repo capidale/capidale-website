@@ -62,7 +62,7 @@
                 Salary
               </dt>
               <dd class="text-lg text-white">
-                <span class="block">£23,000 - £25,000</span>
+                <span class="block">£23,000 - £25,000 per annum</span>
                 <span class="block">+ up to 10% annual bonus</span>
                 <span class="block">+ 6% employer pension contribution</span>
               </dd>
