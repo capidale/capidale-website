@@ -137,6 +137,24 @@ export default {
           content:
             'This is an exciting opportunity for someone who wants to make the world a better place and has a talent for creative storytelling.',
         },
+        {
+          property: 'og:title',
+          content: 'Grants Fundraiser & Reseacher - Capidale',
+        },
+        {
+          property: 'og:image',
+          content: '/img/social-logo.png',
+        },
+        {
+          property: 'og:description',
+          content:
+            'This is an exciting opportunity for someone who wants to make the world a better place and has a talent for creative storytelling.',
+        },
+        {
+          property: 'og:url',
+          content:
+            'https://www.capidale.co.uk/jobs/grants-fundraiser-and-researcher/',
+        },
       ],
     }
   },
