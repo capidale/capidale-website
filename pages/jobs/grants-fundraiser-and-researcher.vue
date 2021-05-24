@@ -143,7 +143,7 @@ export default {
         },
         {
           property: 'og:image',
-          content: '/img/social-logo.png',
+          content: '/img/social-logo.jpg',
         },
         {
           property: 'og:description',
