@@ -16,4 +16,4 @@ Over three years, this project will support 90 homeless veterans with complex ne
 
 Veterans will work one-to-one with a Transition Worker to access civilian services, claim benefits, tackle debt and long-term find independent accommodation. They will also receive support from a Health & Wellbeing Worker to overcome their often-deep-seated mental and physical health problems. Crucially, Riverside will support veterans to rebuild relationships with their families to help them stabilise more quickly and build strong connections.
 
-We are delighted to have supported Riverside in making this application a success. We look forward to working with staff and veterans over the next three years to measure the project's impact.
+We are delighted to have supported Riverside in making this application a success.
