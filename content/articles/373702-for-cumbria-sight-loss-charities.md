@@ -16,7 +16,7 @@ In March 2020, after getting through stage one, we submitted our second stage ap
 
 After almost 18 months of hard work, we are really pleased our application has finally be successful!
 
-Over three years, this project will provide holistic, tailored support to over 1,500 people with sight loss experiencing a crisis across Cumbria. All partners will support people to their claim benefit entitlements, access independent living aids/adaptations, attend peer support groupps and get help from other, relevant organisations, so they feel more confident about living independently.
+Over three years, this project will provide holistic, tailored support to over 1,500 people with sight loss experiencing a crisis across Cumbria. All partners will support people to claim their benefit entitlements, access independent living aids/adaptations, attend peer support groupps and get help from other, relevant organisations, so they feel more confident about living independently.
 
 The project will also empower almost 200 people with sight loss to overcome barriers to volunteering so they can help and support each other to live the lives they wish to lead.
 
