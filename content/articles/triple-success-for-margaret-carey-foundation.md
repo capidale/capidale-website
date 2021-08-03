@@ -1,6 +1,6 @@
 ---
 title: Triple success for Margaret Carey Foundation
-description: We are delighted to have raised over £100,000 for Margaret Carey Foundation over the past couple of months from three funders.
+description: We are delighted to have raised £109,482 for Margaret Carey Foundation from The Tudor Trust, Postcode Neighbourhood Trust and The Brelms Trust.
 img: news-margaret-carey-aug-21.jpg
 alt: margaret-carey-foundation
 createdAt: 2021-08-03
