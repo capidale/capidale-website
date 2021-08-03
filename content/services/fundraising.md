@@ -2,7 +2,7 @@
 serviceId: 1
 title: Fundraising
 subtitle: We can help your charity grow
-description: We have a highly successful track record - from helping small charities set up and grow their trusts and foundations programmes, to leading multi-million pound grant applications for major national charities. We can help you find funders with interests matching your work and then develop successful grant applications on your behalf. We typically secure 65% of all funds applied for.
+description: We have a highly successful track record - from helping small charities set up and grow their trusts and foundations programmes, to leading multi-million pound grant applications for major national charities. We can help you find funders with interests matching your work and then develop successful grant applications on your behalf. We typically secure 64% of all funds applied for.
 icon: icon-fundraising
 img: services-fundraising.jpg
 alt: fundraising
@@ -10,9 +10,9 @@ alt: fundraising
 
 Whether you are a major charity needing extra capacity to write a multi-million pound fundraising bid, or a smaller charity wishing to expand your grant fundraising from a low base, we can help.
 
-We have a highly successful track record. For example, since 2011, we have written 85 applications to the National Lottery Community Fund, 75% of which have been successful. So far, we have raised almost £30 million in lottery funds for our clients.
+We have a highly successful track record. For example, since 2011, we have written 91 applications to the National Lottery Community Fund, 74% of which have been successful. So far, we have raised over £30 million in lottery funds for our clients.
 
-Our approach works with other funders too. We have written 22 applications to the Henry Smith Charity, again with a 75% success rate. And we have secured funding from Comic Relief, BBC Children in Need, Lloyds Bank Foundation, Garfield Weston, Dunhill Medical Trust, Rayne Foundation, Esmée Fairbairn Foundation, statutory funders and many, many smaller trusts and foundations.
+Our approach works with other funders too. We have written 25 applications to the Henry Smith Charity, again with a 74% success rate. And we have secured funding from Comic Relief, BBC Children in Need, Lloyds Bank Foundation, Garfield Weston, Dunhill Medical Trust, Rayne Foundation, Esmée Fairbairn Foundation, statutory funders and many, many smaller trusts and foundations.
 
 We are deeply proud to have raised an average £42.31 for every £1 charged in fundraising fees. This compares to a national average return on investment for trusts, foundations and lottery fundraising of £8.36 (Institute of Fundraising).
 
