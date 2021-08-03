@@ -1,6 +1,6 @@
 ---
 title: £284,444 for Purple Patch Arts
-description: Our latest success with the National Lottery Community Fund's Reaching Communities programme will support 290 young people with learning disabilities and autistic peope in Leeds and Bradford.
+description: Our latest success with the National Lottery Community Fund's Reaching Communities programme will support 290 young people with learning disabilities and autistic people in Leeds and Bradford.
 img: news-purple-patch-arts-jul-21.jpg
 alt: purple patch arts
 createdAt: 2021-07-31
