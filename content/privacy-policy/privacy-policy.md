@@ -44,7 +44,7 @@ Capidale will not share your data with any party who would use it for any purpos
 
 If you have any questions about this policy please contact Tom McEvoy, Fundraising & Research Manager of Capidale at tom[at]capidale.co.uk.
 
-Capidale aim’s to be transparent on honest when collecting and using personal information. We would encourage any potential misuse of data to be brought to our attention so we can address this as swiftly as we can.
+Capidale aims to be transparent and honest when collecting and using personal information. We would encourage any potential misuse of data to be brought to our attention so we can address this as swiftly as we can.
 
 If you are not satisfied with how Capidale has handled your complaint, you can contact the Information Commissioners Office:
 
