@@ -1,6 +1,6 @@
 ---
 name: Jasmine Dominey
-jobTitle: Grants Fundraiser and Researcher
+jobTitle: Grants Fundraiser & Researcher
 order: 4
 img: team-jasmine-dominey.jpg
 alt: jasmine dominey
