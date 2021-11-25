@@ -29,7 +29,7 @@ Working closely with the Wildlife Trusts team, as well as their partners Groundw
 
 CHEXS is a Hertfordshire-based charity supporting disadvantaged young people and their families, focusing on Broxbourne.
 
-We were introduced to them by Hertfordshire Mind Network, who we worked with to secure a partnership lottery grant of £499,000 to fund ‘Broxbourne Better Futures’. We were very impressed with CHEXS’ work and the outcomes they achieve young peopl in terms of raised aspirations and improved family relationships.
+We were introduced to them by Hertfordshire Mind Network, who we worked with to secure a partnership lottery grant of £499,000 to fund ‘Broxbourne Better Futures’. We were very impressed with CHEXS’ work and the outcomes they achieve young people in terms of raised aspirations and improved family relationships.
 
 We were delighted when Pete Maiden, CHEXS’ CEO, asked us to help them raise funds independently of the wider partnership. We helped them secure four further grants which raised a total of £278,410 and enabled them to significantly expand their work with parents and disadvantaged young people.
 
