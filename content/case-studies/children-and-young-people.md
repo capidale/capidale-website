@@ -10,11 +10,11 @@ We have successfully raised funds for several children and youth projects.
 Our clients and funds raised for them to date include:
 
 - The Wildlife Trusts (Nature Friendly Schools) - £6.3 million
+- SELFA - £556,062
+- Forget Me Not Children’s Hospice - £525,079
 - Families First Bedfordshire - £491,793
-- SELFA - £321,109
 - FACES - £355,093
-- CHEXS - £278,410
-- Forget Me Not Children’s Hospice - £165,322
+- CHEXS - £328,410
 - Hemlington Linx - £60,000
 
 #### Case Study: The Wildlife Trusts
@@ -31,7 +31,7 @@ CHEXS is a Hertfordshire-based charity supporting disadvantaged young people and
 
 We were introduced to them by Hertfordshire Mind Network, who we worked with to secure a partnership lottery grant of £499,000 to fund ‘Broxbourne Better Futures’. We were very impressed with CHEXS’ work and the outcomes they achieve young people in terms of raised aspirations and improved family relationships.
 
-We were delighted when Pete Maiden, CHEXS’ CEO, asked us to help them raise funds independently of the wider partnership. We helped them secure four further grants which raised a total of £278,410 and enabled them to significantly expand their work with parents and disadvantaged young people.
+We were delighted when Pete Maiden, CHEXS’ CEO, asked us to help them raise funds independently of the wider partnership. We helped them secure five further grants which raised a total of £328,410 and enabled them to significantly expand their work with parents and disadvantaged young people.
 
 > “We were really pleased with the support we got from Capidale, which not only helped us to increase our income, but also enabled us to develop our fundraising skills, which we now use to apply for further funding.”
 >

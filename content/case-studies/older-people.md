@@ -12,8 +12,8 @@ Our clients and funds raised for them to date include:
 - Campaign to End Loneliness - £2,650,000
 - Age UK Barrow & District - £1,752,275
 - Age UK South Lakeland - £1,479,169
-- Age UK Doncaster - £834,711
-- Age UK Wakefield - £603,420
+- Age UK Doncaster - £991,600
+- Age UK Wakefield - £623,420
 - Age UK Carlisle & Eden - £463,801
 - Leeds Jewish Welfare Board - £403,246
 - Age UK North East Lincolnshire - £366,939
