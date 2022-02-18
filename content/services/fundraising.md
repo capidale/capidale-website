@@ -10,9 +10,9 @@ alt: fundraising
 
 Whether you are a major charity needing extra capacity to write a multi-million pound fundraising bid, or a smaller charity wishing to expand your grant fundraising from a low base, we can help.
 
-We have a highly successful track record. For example, since 2011, we have written 91 applications to the National Lottery Community Fund, 74% of which have been successful. So far, we have raised over £30 million in lottery funds for our clients.
+We have a highly successful track record. For example, since 2011, we have written 95 applications to the National Lottery Community Fund, 75% of which have been successful. So far, we have raised almost £32 million in lottery funds for our clients.
 
-Our approach works with other funders too. We have written 25 applications to the Henry Smith Charity, again with a 74% success rate. And we have secured funding from Comic Relief, BBC Children in Need, Lloyds Bank Foundation, Garfield Weston, Dunhill Medical Trust, Rayne Foundation, Esmée Fairbairn Foundation, statutory funders and many, many smaller trusts and foundations.
+Our approach works with other funders too. We have written 26 applications to the Henry Smith Charity, with a 77% success rate. And we have secured funding from Comic Relief, BBC Children in Need, Lloyds Bank Foundation, Garfield Weston, Dunhill Medical Trust, Rayne Foundation, Esmée Fairbairn Foundation, statutory funders and many, many smaller trusts and foundations.
 
 We are deeply proud to have raised an average £42.31 for every £1 charged in fundraising fees. This compares to a national average return on investment for trusts, foundations and lottery fundraising of £8.36 (Institute of Fundraising).
 
