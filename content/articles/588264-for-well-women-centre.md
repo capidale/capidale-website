@@ -1,6 +1,6 @@
 ---
 title: £588,264 for Well Women Centre
-description: Despite the funding challenges of the COVID-19 pandemic, we are delighted to have helped the Well Women Centre raise £588,264 to fund their casework team in full.
+description: Despite funding challenges presented by the COVID-19 pandemic, we are delighted to have helped the Well Women Centre in Wakefield raise £588,264 to fund their casework team in full.
 img: news-well-women-centre-march-22.jpg
 alt: well-women-centre
 createdAt: 2022-03-30
