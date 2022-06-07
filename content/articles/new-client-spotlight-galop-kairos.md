@@ -6,19 +6,15 @@ alt: galop
 createdAt: 2022-05-30
 ---
 
-The last two years have been extremely challenging for both charities and theirr beneficiaries who have been severely impacted by the COVID-19 pandemic. We are delighted to be able to support so many fantastic charities across the country to raise vital funds to continue their essential services.
+The last two years have been extremely challenging for both charities and their beneficiaries who have been severely impacted by the COVID-19 pandemic. We are delighted to be supporting so many fantastic charities across the country to raise vital funds to continue their essential services - including two new clients Galop and Kairos Women Working Together.
 
-We are pleased to share news of two new clients who we have recently begun working with - we are really excited!
-
-**Galop**
-Galop is the UK’s LGBTQ+ anti-abuse charity, run by LGBTQ+ people, for LGBTQ+ people. Galop support those experiencing or who have survived domestic abuse, sexual violence, hate crime and other forms of abuse, including honour-based abused and so-called conversion therapies.
+**Galop** is the UK’s LGBTQ+ anti-abuse charity, run by LGBTQ+ people, for LGBTQ+ people. Galop supports people who are experiencing or have survived domestic abuse, sexual violence, hate crime and other forms of abuse, including honour-based abused and so-called conversion therapies.
 
 Galop provide advocacy and casework services as well as three national helplines – their work is the only service of its kind in the country. Beyond their direct work with LGBTQ+ people, Galop train professionals to improve their understanding of the needs of the community they support and develop key pieces of research to influence national and local policy change.
 
 Since we started working with Galop, we have completed extensive funder research and created a fundraising plan which we have begun to implement. We are delighted our first application to Comic Relief for £101,671 has been successful.
 
-**Kairos**
-Kairos support women in Coventry who are at risk of, or subject to sexual exploitation, including those involved in street-based prostitution.
+**Kairos Women Working Together** support women in Coventry who are at risk of, or subject to sexual exploitation, including those involved in street-based prostitution.
 
 They provide outreach, drop-in, crisis intervention, intensive 1-to-1 emotional and practical support and advocacy, and professionally facilitated peer support groups. All support is women-centred, holistic, long-term, non-judgmental and trauma informed.
 
