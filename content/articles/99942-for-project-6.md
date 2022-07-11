@@ -1,7 +1,7 @@
 ---
 title: £99,921 for Project 6
 description: Funding from the National Lottery Community Fund's Reaching Communities programme will support 250 people recovering from drug and alcohol problems.
-img: news-middlesbrough-and-stockton-mind-feb-22.jpg
+img: news-project-6-june-22.jpg
 alt: project-6
 createdAt: 2022-06-30
 ---
