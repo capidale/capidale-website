@@ -29,9 +29,9 @@
           class="mt-3 text-xl font-medium text-center text-cool-gray-500 sm:mt-5 sm:max-w-xl sm:mx-auto lg:mx-0 lg:text-left lg:text-lime-100"
         >
           We help charities
-          <span class="font-bold text-lime-600 lg:text-white">grow</span>. For
-          every £1 our clients have spent on fundraising with us, we raise on
-          average
+          <span class="font-bold text-lime-600 lg:text-white">grow</span>. Last
+          year, for every £1 our clients spent on fundraising with us, we raised
+          an average
           <span class="font-bold text-lime-600 lg:text-white">£25.69</span>. Our
           <span class="font-bold text-lime-600 lg:text-white"
             >evaluation expertise</span
@@ -77,3 +77,4 @@ export default {
   },
 }
 </script>
+
