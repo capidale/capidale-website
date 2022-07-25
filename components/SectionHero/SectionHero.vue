@@ -30,9 +30,9 @@
         >
           We help charities
           <span class="font-bold text-lime-600 lg:text-white">grow</span>. For
-          every £1 our clients have spent on fundraising with us, we have raised
-          an average
-          <span class="font-bold text-lime-600 lg:text-white">£42.31</span>. Our
+          every £1 our clients have spent on fundraising with us, we raise on
+          average
+          <span class="font-bold text-lime-600 lg:text-white">£25.69</span>. Our
           <span class="font-bold text-lime-600 lg:text-white"
             >evaluation expertise</span
           >
