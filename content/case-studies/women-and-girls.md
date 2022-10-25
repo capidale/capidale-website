@@ -9,9 +9,9 @@ We have a very strong track record in raising funds for charities supporting dis
 
 Our clients and funds raised for them to date include:
 
-- Leeds Women's Counselling and Therapy Service - £2,158,310
+- Leeds Women's Counselling and Therapy Service - £2,484,629
 - Women's Lives Leeds - £2,000,000
-- Women's Health Matters - £1,280,176
+- Women's Health Matters - £1,434,562
 - Wakefield Well Women’s Centre - £588,264
 
 #### Case Study: Women's Counselling and Therapy Service

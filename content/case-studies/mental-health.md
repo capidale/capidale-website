@@ -11,10 +11,10 @@ Before founding Capidale, Louise secured £16,000,000 from the Big Lottery Fund 
 
 We have continued to successfully raise funds for many mental health charities and causes, including:
 
-- Middlesbrough and Stockton Mind - £7,944,340
+- Middlesbrough and Stockton Mind - £8,060,996
 - Time to Change - £4,560,262
 - Mind (national) - £1,466,509
-- The Cellar Trust - £1,150,836
+- The Cellar Trust - £1,289,557
 - National Survivor Users’ Network - £323,215
 
 #### Case Study: Middlesbrough & Stockton Mind
