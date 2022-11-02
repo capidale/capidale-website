@@ -21,12 +21,12 @@ We have continued to successfully raise funds for many mental health charities a
 
 In 2013 we were approached by Emma Howitt, Chief Executive of Middlesbrough & Stockton Mind to help her with an application to the National Lottery Community Fund’s Ageing Better Programme. We worked with Emma for several months, helping to design and write the application. We eventually raised £5,995,432.
 
-Since then, we have written 24 further applications, of which 19 have been successful. This includes:
+Since then, we have written 29 further applications, of which 22 have been successful. This includes:
 
 - National Lottery Community Fund (Help Through Crisis) - £499,768
 - NHS Charities Together - £238,000
 - National Lottery Community Fund (Reaching Communities) - £217,149
-- Comic Relief - £130,000
+- Comic Relief - £215,584
 - Mind - £116,947
 - BBC Children in Need - £57,639
 

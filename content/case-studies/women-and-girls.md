@@ -20,7 +20,7 @@ Women's Counselling and Therapy Service (WCTS) helps women in Leeds recover from
 
 We started by reviewing the charity’s work in-depth, paying particular attention to the needs of women receiving support and the outcomes they achieve. Next, we researched potential trusts and foundations to contact, identifying an initial 11 trusts with a very strong match to WCTS’s work. Our final preparatory step was to prepare a high-impact Case for Support, to show why a funder should give to WCTS, the issues their clients face and why WCTS is uniquely well placed to support them.
 
-Since we began working with WCTS, we have developed 36 fundraising applications, 24 of which have been successful – raising over £2.1 million. Grants secured have included:
+Since we began working with WCTS, we have developed 40 fundraising applications, 28 of which have been successful – raising over £2.4 million. Grants secured have included:
 
 - The Henry Smith Charity - £168,911
 - Comic Relief – £119,907
