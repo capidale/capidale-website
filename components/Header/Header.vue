@@ -9,7 +9,7 @@
             class="rounded-md focus:outline-none focus-visible:ring-2 focus-visible:ring-lime-600 focus-visible:ring-offset-4"
           >
             <h1 class="sr-only">Capidale</h1>
-            <ChristmasLogo />
+            <LogoChristmas />
           </nuxt-link>
           <ResponsiveMenu />
         </div>
@@ -18,3 +18,4 @@
     </Container>
   </header>
 </template>
+
