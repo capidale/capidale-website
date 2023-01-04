@@ -1,5 +1,5 @@
 ---
-title: Double success for new client, Music Support
+title: Double success for Music Support
 description: We are delighted to report that our first two applications submitted on behalf of Music Support have been successful, raising a vital £35,000 for the charity.
 img: news-music-support-oct-22.jpg
 alt: music-support
