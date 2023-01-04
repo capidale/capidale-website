@@ -6,11 +6,11 @@ alt: citizens-advice-daventry
 createdAt: 2022-11-01
 ---
 
-We are delighted to have raised £295,129 of continuation fundding for Citizens Advice Daventry & District from The National Lottery Community Fund’s Reaching Communities programme. 
+We are delighted to have raised £295,129 of continuation funding for Citizens Advice Daventry & District from The National Lottery Community Fund’s Reaching Communities programme. 
 
 In 2018, we raised £257,111 from the National Lottery Community Fund to help people in Daventry and the surrounding areas with mental health problems claim their benefit entitlements, manage their finances better and improve their wellbeing and independence. Over three years, the project supported 354 people. 
 
-We worked alongside Citizens Advice Daventry to evaluate the project. People told us the project has been “life changing" and helped them to "feel more in control and gave me a second chance at life”. Through our evaluation, we identified a need to widen the accessibility of the project beyond people with mental health problems.
+We worked alongside Citizens Advice Daventry to evaluate the project. People told us the project was "life changing" and helped them to "feel more in control" and give them "a second chance at life". Through our evaluation, we identified a need to widen the accessibility of the project beyond people with mental health problems.
 
 Empowerment for All builds on the success of Citizens Advice Daventry's previous project. Over the next three years, they will extend their support to people with sight loss and people with learning difficulties as well as reach more people with mental health problems. Combined, 930 people will benefit.
 
