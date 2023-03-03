@@ -10,7 +10,7 @@ Bradford is one of England’s worst areas for mental health issues. Common ment
 
 The Cellar Trust is an award winning, mental health charity based in Shipley, near Bradford. Annually, they support over 6,000 people. A major part of their work is helping people experiencing a crisis in their mental health to start their recovery journey and develop positive coping strategies.
 
-The consistent theme running through The Cellar Trust's work is peer support. All their frontline staff and almost all our volunteers have direct, personal experience of mental health problems.
+The consistent theme running through The Cellar Trust's work is peer support. All their frontline staff and almost all volunteers have direct, personal experience of mental health problems.
 
 Over the next three years, The Cellar Trust is committed to growing their support for people experiencing mental health problems in their community who are in, or at risk, of crisis. Through the Shipley Town Fund, they have exciting plans to develop a Health, Wellbeing and Community Campus. This will change the way mental health and wellbeing services are delivered in Shipley and how they connect with the people who need them.
 
