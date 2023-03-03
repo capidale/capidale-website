@@ -1,6 +1,6 @@
 ---
 title: £100,000 for The Cellar Trust
-description: We are delighted to have unrestricted funding over the next three years from the Garfield Weston Foundation to support people year with mental health problems in Bradford and surrounding communities who are at risk of crisis.
+description: We are delighted to have secured three years unrestricted funding from the Garfield Weston Foundation to support people year with mental health problems in Bradford and surrounding communities who are at risk of crisis.
 img: news-the-cellar-trust-feb-23.jpg
 alt: the cellar trust
 createdAt: 2023-02-20
