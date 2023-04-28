@@ -1,6 +1,6 @@
 ---
 title: Evaluating Buglife's impact
-description: We are excited to be working with Buglife – The Invertebrate Conservation Trust with the monitoring and evaluation of their B-Lines projects in North Cornwall, Shropshire and Strathmore.
+description: We are excited to be helping Buglife -The Invertebrate Conservation Trust, with the monitoring and evaluation of their B-Lines projects in North Cornwall, Shropshire and Strathmore.
 img: news-buglife-march-23.jpg
 alt: buglife
 createdAt: 2023-03-30
