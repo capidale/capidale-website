@@ -3,7 +3,7 @@ title: Over £1 million raised for Galop
 description: We are delighted to have raised £1,073,563 over the last 12 months to support LGBT+ survivors of domestic abuse, sexual violence and hate crimes.
 img: news-galop-apr-23.jpg
 alt: galop
-createdAt: 2022-04-03
+createdAt: 2023-04-03
 ---
 
 Galop is the UK's LGBT+ anti-abuse charity. They specialise in supporting victims and survivors of domestic abuse, sexual violence, hate crime and other forms of abuse, including so-called conversion therapies.
