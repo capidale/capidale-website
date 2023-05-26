@@ -14,7 +14,7 @@
         <h2>
           <span
             class="block text-3xl font-extrabold text-center text-cool-gray-900 sm:text-4xl lg:text-left lg:text-lime-100"
-            >In just over 11 years, we've raised</span
+            >Since 2011, we have raised</span
           >
           <span
             class="block mt-2 text-5xl font-extrabold tracking-tight text-center text-lime-600 sm:text-6xl md:text-8xl lg:text-left lg:text-white"
@@ -57,7 +57,7 @@ export default {
   data() {
     return {
       delay: 500,
-      endVal: 64012374,
+      endVal: 65186343,
       options: {
         duration: 1,
         useEasing: true,
