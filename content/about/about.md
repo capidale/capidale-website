@@ -1,6 +1,6 @@
 ---
 title: About Capidale
-subtitle: Helping charities grow since 2011.
+subtitle: Helping charities grow since 2011
 ---
 
 We are a Yorkshire-based, grant fundraising and project evaluation consultancy, working with charities across the UK.
