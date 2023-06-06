@@ -5,7 +5,7 @@ subtitle: Helping charities grow since 2011
 
 We are a Yorkshire-based, grant fundraising and project evaluation consultancy, working with charities across the UK.
 
-Since 2011, we have raised over £65 million for our clients. Last year, we secured them an average of £25.69 for every £1 charged in fundraising fees (£21.41 including VAT).
+Since 2011, we have raised over £65 million for our clients. Over the last five years, we secured them an average of £36.09 for every £1 charged in fundraising fees (£30.08 including VAT).
 
 Our successful approach is based on truly understanding the difference our clients make to the people they support, and powerfully communicating this to funders.
 
