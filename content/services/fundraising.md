@@ -14,6 +14,6 @@ We have a highly successful track record. For example, since 2011, we have writt
 
 Our approach works with other funders too. We have written 40 applications to the Henry Smith Charity, with a 77% success rate. And we have secured funding from Comic Relief, BBC Children in Need, Lloyds Bank Foundation, Garfield Weston, Dunhill Medical Trust, Rayne Foundation, Esmée Fairbairn Foundation, statutory funders and many, many smaller trusts and foundations.
 
-We are deeply proud that in 2022, we raised £60.28 for every £1 charged in fundraising fees (£50.24 including VAT). And, over the last five years, on average we have raised £36.09 for every £1 chaged in fundraising fees (£30.08 including VAT). This compares to a national average return on investment for trusts, foundations and lottery fundraising of £10.05 (Chartered Institute of Fundraising).
+We are deeply proud that in 2022, we raised £60.28 for every £1 charged in fundraising fees (£50.24 including VAT). And, over the last five years, on average we have raised £36.09 for every £1 charged in fundraising fees (£30.08 including VAT). This compares to a national average return on investment for trusts, foundations and lottery fundraising of £10.05 (Chartered Institute of Fundraising).
 
 We base our success on working closely with clients as they develop their ideas. We carefully match their projects with potential funders and write highly persuasive, evidence-based applications that meet both parties’ needs.
