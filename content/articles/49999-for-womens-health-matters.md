@@ -14,6 +14,6 @@ We have been working with Women's Health Matters since 2016, raising over £1.6 
 
 This grant from The Charles Plater Trust marks a milestone as our 50th successful application!
 
-The Trust's funding with support Rosebuds, Women's Health Matters weekly, city-wide educational and peer support group for women who have had one or more children removed from their care.
+The Trust's funding will support Rosebuds, Women's Health Matters weekly, city-wide educational and peer support group for women who have had one or more children removed from their care.
 
 Women attend Rosebuds for around six months. Each group is closed to enable women to build trust and positive support networks. The groups all complete educational sessions covering topics like healthly lifestyles, building rsilience, self-compassion and defining abuse. Women also co-produce sessions on topics they find meaningful and co-deliver them to peers. Guest speakers provide a break from educational sessions and give opportunities for women to meet other local organisations who can help when they leave Rosebuds. 
