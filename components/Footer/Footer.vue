@@ -10,9 +10,6 @@
         <TextLink to="/services/evaluation" class="flex justify-center"
           >Evaluation</TextLink
         >
-        <TextLink to="/services/training" class="flex justify-center"
-          >Training</TextLink
-        >
         <TextLink to="/case-studies" class="flex justify-center"
           >Case Studies</TextLink
         >
