@@ -13,7 +13,7 @@
       </TextContent>
     </div>
     <div class="pt-16 mx-auto sm:py-10">
-      <ul class="space-y-8 lg:space-y-0 lg:grid lg:grid-cols-3 lg:gap-x-16">
+      <ul class="space-y-8 lg:space-y-0 lg:grid lg:grid-cols-2 lg:gap-x-16">
         <li
           v-for="service of services"
           :key="service.slug"

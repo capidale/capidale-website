@@ -81,11 +81,6 @@
                   >Evaluation</ResponsiveLink
                 >
                 <ResponsiveLink
-                  to="/services/training"
-                  @click.native="isResponsiveMenuOpen = false"
-                  >Training</ResponsiveLink
-                >
-                <ResponsiveLink
                   to="/case-studies"
                   @click.native="isResponsiveMenuOpen = false"
                   >Case Studies</ResponsiveLink

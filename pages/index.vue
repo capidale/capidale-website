@@ -47,7 +47,7 @@ export default {
     const services = await $content('services', params.slug)
       .only(['title', 'description', 'icon', 'slug'])
       .sortBy('serviceId', 'asc')
-      .limit(3)
+      .limit(2)
       .fetch()
 
     const stats = await $content('stats', params.slug)
