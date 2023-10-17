@@ -129,7 +129,7 @@ export default {
 
   head() {
     return {
-      title: `Capidale - Grants Fundraiser & Researcher`,
+      title: "Capidale - Grants Fundraiser & Researcher",
       meta: [
         {
           hid: 'description',
