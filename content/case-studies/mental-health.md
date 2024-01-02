@@ -11,17 +11,17 @@ Before founding Capidale, Louise secured £16,000,000 from the Big Lottery Fund 
 
 We have continued to successfully raise funds for many mental health charities and causes, including:
 
-- Middlesbrough and Stockton Mind - £8,060,996
+- Teesside Mind - £8,339,694
 - Time to Change - £4,560,262
+- The Cellar Trust - £1,554,665
 - Mind (national) - £1,466,509
-- The Cellar Trust - £1,289,557
 - National Survivor Users’ Network - £323,215
 
-#### Case Study: Middlesbrough & Stockton Mind
+#### Case Study: Teesside Mind
 
-In 2013 we were approached by Emma Howitt, Chief Executive of Middlesbrough & Stockton Mind to help her with an application to the National Lottery Community Fund’s Ageing Better Programme. We worked with Emma for several months, helping to design and write the application. We eventually raised £5,995,432.
+In 2013 we were approached by Emma Howitt, Chief Executive of Teesside Mind (previously known as Middlesbrough & Stockton Mind) to help her with an application to the National Lottery Community Fund’s Ageing Better Programme. We worked with Emma for several months, helping to design and write the application. We eventually raised £5,995,432.
 
-Since then, we have written 29 further applications, of which 22 have been successful. This includes:
+Since then, we have written 33 further applications, of which 24 have been successful. This includes:
 
 - National Lottery Community Fund (Help Through Crisis) - £499,768
 - NHS Charities Together - £238,000
@@ -34,4 +34,4 @@ We have helped many other local Minds with their fundraising, including Tameside
 
 > “We have achieved an excellent success rate with Capidale. Getting expert help, when access to funds is so competitive, is crucial for us. I would absolutely recommend Capidale.”
 >
-> <cite>Emma Howitt, Chief Executive, Middlesbrough & Stockton Mind</cite>
+> <cite>Emma Howitt, Chief Executive, Teesside Mind</cite>
