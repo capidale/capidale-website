@@ -16,7 +16,13 @@ Over the years we have found many charities struggle to clearly, simply and cost
 
 Our focus is on keeping impact measurement simple and affordable. We can help you in the following ways:
 
-- Work with you to develop project-specific evaluation using quantitative and qualitative techniques that demonstrate your project’s impact in the short and longer term
-- Produce external evaluation reports to evidence the difference you make to funders and other organisations interested in your work
-- Design annual snapshot surveys to be undertaken with a proportion of the people you support across all your work to show the difference you make
-- Show you how to simply gather impactful case studies and stories that illustrate the difference you make
+- Work with you to develop project-specific evaluation using quantitative and qualitative techniques that demonstrate your project’s impact in the short and longer term.
+- Produce external evaluation reports to evidence the difference you make to funders and other organisations interested in your work.
+- Design annual snapshot surveys to be undertaken with a proportion of the people you support across all your work to show the difference you make.
+- Show you how to simply gather impactful case studies and stories that illustrate the difference you make.
+
+
+> “May I congratulate you on the funding report you completed for us. Our funder said it was a shining example of how a report should be completed…and asked if she could use it as an example for others. She said she normally asks charities further questions following their report but with ours she did not have any further questions.”
+>
+> <cite>Carl Hodge, Chief Executive, Vision Support Barrow & District</cite>
+
