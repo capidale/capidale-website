@@ -1,6 +1,6 @@
 ---
 title: Children & Young People
-subtitle: £8.3 million raised to support disadvantaged young people
+subtitle: £9.5 million raised to support disadvantaged young people
 img: case-study-children-young-people.jpg
 alt: children & young people
 ---
@@ -10,12 +10,11 @@ We have successfully raised funds for several children and youth projects.
 Our clients and funds raised for them to date include:
 
 - The Wildlife Trusts (Nature Friendly Schools) - £6.3 million
+- CHEXS - £1,048,557
 - SELFA - £556,062
 - Forget Me Not Children’s Hospice - £525,079
+- FACES - £524,003
 - Families First Bedfordshire - £491,793
-- CHEXS - £436,616
-- FACES - £355,092
-- Hemlington Linx - £60,000
 
 #### Case Study: The Wildlife Trusts
 
@@ -31,7 +30,7 @@ CHEXS is a Hertfordshire-based charity supporting disadvantaged young people and
 
 We were introduced to them by Hertfordshire Mind Network, who we worked with to secure a partnership lottery grant of £499,000 to fund ‘Broxbourne Better Futures’. We were very impressed with CHEXS’ work and the outcomes young people achieve in terms of raised aspirations and improved family relationships.
 
-We were delighted when Pete Maiden, CHEXS’ CEO, asked us to help them raise funds independently of the wider partnership. We helped them secure five further grants which raised a total of £328,410 and enabled them to significantly expand their work with parents and disadvantaged young people.
+We were delighted when Pete Maiden, CHEXS’ CEO, asked us to help them raise funds independently of the wider partnership. Over the last five years, we have helped them secure eight further grants which raised a total of £1,048,557 and enabled them to significantly expand their work with parents and disadvantaged young people.
 
 > “We were really pleased with the support we got from Capidale, which not only helped us to increase our income, but also enabled us to develop our fundraising skills, which we now use to apply for further funding.”
 >
