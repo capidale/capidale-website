@@ -43,7 +43,7 @@
           >
             <div class="px-5 pt-4 flex items-center justify-between">
               <nuxt-link to="/" @click.native="isResponsiveMenuOpen = false">
-                <LogoChristmas size="sm" />
+                <Logo size="sm" />
               </nuxt-link>
               <div class="-mr-2">
                 <button
