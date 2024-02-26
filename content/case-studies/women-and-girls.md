@@ -29,8 +29,6 @@ To date, we’ve developed six funding applications for Kairos, totalling £867,
 >
 > <cite>Kellie Ziemba, Chief Executive, Kairos WWT</cite>
 
-“Wow, just amazing!!! Literally a dream come true! Louise - this means a 100% success rate with every single bid you’ve done for us. I can’t even express how grateful I am for your expertise.”  
-
 #### Case Study: Women's Counselling and Therapy Service
 
 Women's Counselling and Therapy Service (WCTS) helps women in Leeds recover from the trauma of rape, neglect and abuse. Director, Tessa Denham, contacted us for help in 2012, explaining that they were almost wholly reliant on statutory contracts, but their funding was under threat due to constraints in local authority spending.
