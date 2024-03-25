@@ -18,12 +18,13 @@
             />
             <div class="px-4 mt-4 bg-white">
               <div>
-                <span
+                <!-- <span
                   class="text-sm font-semibold tracking-wide uppercase text-lime-600"
                   >{{ article.createdAt | moment('MMMM YYYY') }}</span
                 >
+                -->
                 <h3
-                  class="mt-2 text-2xl font-extrabold text-cool-gray-900 sm:text-3xl"
+                  class="text-2xl font-extrabold text-cool-gray-900 sm:text-3xl"
                 >
                   {{ article.title }}
                 </h3>
