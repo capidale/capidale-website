@@ -29,7 +29,3 @@ Age UK Wakefield asked us to help them raise funds to extend the idea to other s
 #### Case Study: Age UK South Lakeland
 
 We began working for Age UK South Lakeland in 2014, initially helping them secure a lottery grant of £499,000. They subsequently outsourced all their fundraising to us and, over the next five years, we raised almost £1.5 million for them, submitting 51 applications and securing 28 grants.
-
-> "When I look at the annual costs, our spend is around 50% of what it would cost to have an experienced full time person. I believe it is very good value for money. I have no hesitation whatsoever in recommending Capidale."
->
-> <cite>Hugh Tomlinson, Chief Executive, Age UK South Lakeland</cite>
