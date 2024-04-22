@@ -3,7 +3,7 @@ title: £289,009 for Citizens Advice Oxford
 description: Our latest success through The National Lottery Community Fund's Reaching Communities programme will support people in Oxford struggling with the cost-of-living crisis.
 img: news-citizens-advice-oxford-mar-24.jpg
 alt: citizens advice oxford
-createdAt: 2024-02-28
+createdAt: 2024-03-28
 ---
 
 Citizens Advice Oxford has been supporting people in Oxford for 84 years providing free advice on a wide range of issues. 
