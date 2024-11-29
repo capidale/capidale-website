@@ -24,5 +24,5 @@ Our focus is on keeping impact measurement simple and affordable. We can help yo
 
 > “May I congratulate you on the funding report you completed for us. Our funder said it was a shining example of how a report should be completed…and asked if she could use it as an example for others. She said she normally asks charities further questions following their report but with ours she did not have any further questions.”
 >
-> <cite>Carl Hodge, Chief Executive, Vision Support Barrow & District</cite>
+> <cite>Carl Hodge, former Chief Executive, Vision Support Barrow & District</cite>
 
