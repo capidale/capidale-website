@@ -43,7 +43,7 @@ export default {
   data() {
     return {
       delay: 500,
-      endVal: 73601218,
+      endVal: 74749705,
       options: {
         duration: 1,
         useEasing: true,
