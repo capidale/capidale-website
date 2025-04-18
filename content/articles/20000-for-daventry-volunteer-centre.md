@@ -5,7 +5,7 @@ img: news-daventry-volunteer-centre-apr-25.jpg
 alt: daventry-volunteer-centre
 createdAt: 2025-04-18
 ---
-Since 1990, Daventry Volunteer Centre has been at the heart of its local community—supporting over 350 voluntary and community groups and helping hundreds of people find meaningful volunteering opportunities.
+Since 1990, Daventry Volunteer Centre has been at the heart of its local community - supporting over 350 voluntary and community groups and helping hundreds of people find meaningful volunteering opportunities.
 
 One of the Centre’s most impactful areas of work is its Horizon programme - a series of targeted projects designed for people who are furthest from the job market. Many of the participants have additional needs and face barriers such as poor mental health, isolation, or long-term unemployment. Through supported volunteering, they gain confidence, develop new skills, and begin to re-engage with the world of work.
 
