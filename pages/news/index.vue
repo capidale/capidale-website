@@ -10,10 +10,6 @@
         class="flex flex-col"
       >
         <div>
-          <span
-            class="text-sm font-semibold tracking-wide text-lime-600 uppercase"
-            >{{ article.createdAt | moment('MMMM YYYY') }}</span
-          >
           <h3
             class="mt-2 text-xl font-extrabold text-cool-gray-900 sm:text-2xl"
           >
