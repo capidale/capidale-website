@@ -39,37 +39,6 @@
           <Button>Let's talk</Button>
         </div>
       </form>
-      <div class="pt-5">
-        <div
-          class="px-6 py-6 space-y-6 sm:space-y-0 sm:grid sm:grid-cols-3 sm:gap-x-8 lg:block lg:space-y-6"
-        >
-          <div class="flex items-center">
-            <div class="flex-shrink-0">
-              <Icon name="icon-telephone" />
-              <h4 class="sr-only">Telephone</h4>
-            </div>
-            <p class="ml-4 text-lg font-medium text-cool-gray-900">
-              01274 400825
-            </p>
-          </div>
-          <div class="flex items-center">
-            <div class="flex-shrink-0">
-              <Icon name="icon-twitter" />
-              <h4 class="sr-only">Twitter</h4>
-            </div>
-            <p class="ml-4 text-lg font-medium text-cool-gray-900">@Capidale</p>
-          </div>
-          <div class="flex items-center">
-            <div class="flex-shrink-0">
-              <Icon name="icon-linkedin" />
-              <h4 class="sr-only">Linkedin</h4>
-            </div>
-            <p class="ml-4 text-lg font-medium text-cool-gray-900">
-              capidale-consulting
-            </p>
-          </div>
-        </div>
-      </div>
     </div>
   </Content>
 </template>
