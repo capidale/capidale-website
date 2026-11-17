@@ -4,7 +4,7 @@
       :id="id"
       :name="name"
       :type="type"
-      class="block w-full mt-1 border-cool-gray-300 rounded-md shadow-sm transition duration-150 ease-in-out focus:border-lime-500 focus:ring-lime-600 sm:text-sm"
+      class="block w-full mt-1 border px-2 py-3 border-cool-gray-300 rounded-md shadow-sm transition duration-150 ease-in-out focus:border-lime-500 focus:ring-lime-600 sm:text-sm"
     />
   </FormField>
 </template>
